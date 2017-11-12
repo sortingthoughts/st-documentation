@@ -1,0 +1,47 @@
+      <!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% seo %}
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+
+      <a href="https://sortingthoughts.github.io/st-dokumentation/index.html" class="btn">Home</a>
+      <a href="https://sortingthoughts.github.io/st-dokumentation/benutzerhandbuch.html" class="btn">Benutzerhandbuch</a>
+      <a href="https://www.sortingthoughts.de/blog/de/report-a-bug/" class="btn">Support</a>
+
+    </section>
+
+    <section class="main-content">
+      {{ content }}
+
+      <footer class="site-footer">
+          <span class="site-footer-owner">ST Dokumentation ist Teil des <a href="https://www.sortingthoughts.de">Sorting Thoughts</a> Projektes.</span>
+          <span>Fehler und Anregungen melden über <a href="https://www.sortingthoughts.de/blog/de/report-a-bug/">Kontaktformular</a></span></br>
+          <span><a href="https://sortingthoughts.github.io/st-documentation/">Goto the English version of this documentation.</a></span>
+
+          </br></br>
+          <span class="site-footer-credits">Copyright by Hendrik Ebel | <a href="https://www.sortingthoughts.de/blog/de/impressum/">Impressum</a> | <a href="https://www.sortingthoughts.de/blog/de/license/">Sorting Thoughts Lizenz</a></span>
+
+          <span style="font-size: 70%; line-height: 1; color: grey;">
+            </br></br></br></br>
+            <b>Trademark List</b>
+            </br>
+            Microsoft® and Windows® are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries.
+          </br>
+            Apple®, macOS®, iPhone®, iPad® are either registered trademarks or trademarks of Apple Computer, Inc. in the United States and/or other countries.
+          </br>
+            IOS is a trademark or registered trademark of Cisco in the U.S. and other countries.
+          </br>
+            Java is a registered trademark of Oracle and/or its affiliates.
+          </span>
+      </footer>
+    </section>
+  </body>
+</html>
