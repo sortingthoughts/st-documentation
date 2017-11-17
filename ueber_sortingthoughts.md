@@ -1,5 +1,5 @@
 ---
-title: "Über Sorting Thoughts"
+title: "About Sorting Thoughts"
 ---
 
 <div class="pageNavigation">
@@ -7,7 +7,7 @@ title: "Über Sorting Thoughts"
    [◀️ Home](index.md)
 </div>
 <div style="float:right;">
-  [Für wen ist ST ▶️](anwendungen_sortingthoughts.md)
+  [Who should use ST? ▶️](anwendungen_sortingthoughts.md)
 </div>
 </div>
 
@@ -17,23 +17,18 @@ __Inhalt__
 {:toc}
 ---------------
 
-## Dies ist die Geschichte von Sorting Thoughts
+## This is the Story of the “Sorting Thoughts” app
 
-Die Geschichte von Sorting Thoughts beginnt 2008. Ich war auf der Suche nach einer praktischen und zugleich vertrauenswürdigen Software für die Verwaltung all meiner Notizen. Zu der Zeit hatte ich viele handgeschriebene Notizen für meine Arbeit, Nebenprojekte und für die Planung einer Weltreise. Ich habe viele Programme ausprobiert, um meine Notizen besser zu organisieren, aber leider erfüllte keins all meine Anforderungen. Viele waren schlicht nicht vertrauenswürdig oder einfach viel zu komplex in der Handhabung, um sie sinnvoll im Alltag einsetzten zu können. Als Software-Entwickler entschied ich mich schließlich meine eigene Software zu entwickeln – Sorting Thoughts war geboren.
+The story of Sorting Thoughts began 2008. I was in search of a practical and trustable software tool that should manage all my textual thoughts. In this time I had many many hand-written notes about projects at work, side projects and my planing of a round the world travel. I tried a lot of tools but I can’t find a tool that fulfils my requirements. Many tools are not trustable or to complex to use in my daily routine. As a software developer I decide to program my own tool – Sorting Thoughts was born.
+In December of 2010 I released the first version of Sorting Thoughts for Mac OS X and Microsoft Windows. Also in this year I released a little app version of Sorting Thoughts for my webOS smartphone. Shortly followed by an Android version and the sync feature that allows me to sync my notes with the desktop version. In the next years I added new features to the desktop version like attachments and Gantt chart planing for my projects. So I could say I have programmed a great tool for my daily notes at home and at work. And I’m very happy that I’m not the only user of Sorting Thoughts. It’s really nice to see that Sorting Thoughts will be used the world over.
+2011 announced HP the end of webOS. From now on,  I realized that my webOS app is useless and all my invested time is worthless. So, I decide to switch over to iOS and learned again to program mobile apps – this time in Objective-C instead of HTML and Javascript. I’m was also not very happy with the first sync feature of Sorting Thoughts because it was not very user friendly and limited. I began 2012 with the development of the iOS version with a new sync service. This time I wanted deliver so many features of the desktop version to mobile version as possible. At the end of 2014 I was very happy to release the iOS version for iPhone and iPad with a secure sync service over the air.
+Now, I have again a simple and trustfully tool set for my daily notes. The desktop version at work and home, the iOS version in-between times and for travel. I only miss the sync service on the desktop but this will be come soon with Sorting Thoughts 2.0 😉
 
-Im Dezember 2010 wurde die erste Version von Sorting Thoughts für Microsoft Windows und Mac OS X veröffentlicht. Ebenfalls in diesem Jahr kam die erste mobile Version für webOS Smartphones heraus.  Kurz darauf folgt die Android Version und die Sync Funktion, die es mir erlaubte meine Gedanken mit der Desktop Version zu synchronisieren. In den nächsten Jahren fügte ich weitere Funktionen hinzu, wie z.B. Datenanhänge oder die Gantt Diagrammansicht für Projekte. Somit kann ich in der Tat behaupten, dass Sorting Thoughts eine nützlich Software für tägliche Notizen im privaten sowie professionellen Bereich ist und dabei Einfachheit und 100% Privatsphäre garantiert. Und es ist wirklich toll zu sehen, dass ich nicht der einzige Benutzer bin, sondern das Sorting Thoughts viele Benutzer auf der ganzen Welt hat.
+## Who is behind Sorting Thoughts?
 
-2011 hat HP mitgeteilt das webOS eingestellt wird. Das bedeutete leider auch das meine webOS App nun keine Zukunft mehr hatte und all die investierte Entwicklungszeit in die App wertlos war. Ich entschied mich von nun an auf iOS zu konzentrieren, um neben der Desktop App eine vollwertige mobile Version zur Verfügung zu stellen. Ich war außerdem sehr unzufrieden mit der ersten Version der Sync Funktion, da sie nicht sehr benutzerfreundlich und limitiert war. So begann ich 2012 mit der Entwicklung der iOS Version von Sorting Thoughts und dem neuem Sync Service. Dieses Mal wollte ich so viele Funktionen wie möglich von der Desktop Version auf die iOS Version übertragen und einen deutlich verbesserten Sync Service zur Verfügung stellen. Ende 2014 war es dann endlich soweit und ich konnte die iOS Version für iPhone und iPad mit einem sicheren und vertrauenswürdigen Sync Service veröffentlichen.
-
-Jetzt gibt es also endlich wieder eine einfache und vertrauenswürdige Lösung für meine täglichen Notizen. Die Desktop Version für die Arbeit und zu Hause, die iOS Version für zwischendurch und auf Reisen. Ich vermisse jetzt nur noch die Anbindung des Sync Services an die Desktop Version, aber das wird sich bald mit Sorting Thoughts 2.0 ändern 😉
-
-## Wer steckt hinter Sorting Thoughts?
-
-Mein Name ist Hendrik Ebel, ich bin Software-Entwickler und lebe in der Nähe von Berlin. Ich lerne gerne neue Dinge und natürlich liebe ich es Notizen zu schreiben, auf Reisen, zu Hause, auf Arbeit und an allen Orten wo ich Sorting Thoughts benutzen kann. Sorting Thoughts ist mein Nebenprojekt und Spielwiese, um neue Dinge in Sachen Software-Entwicklung zulernen und auszuprobieren. In meiner regulären Arbeitszeit arbeite ich als Feature-Team-Lead und Software-Entwickler für ein Medizintechnik Unternehmen. Ich habe über 10 Jahre Erfahrung als Software-Entwickler insbesondere im medizinischen Bereich mit hohen Qualitäts- und Sicherheitsstandards. Neben meiner Arbeit liebe ich das Reisen und Fotografieren. Einige meiner Fotos kann man auf Instagram und 500px.com sehen.
-
-Übrigens, ich bin die einzige Person die Sorting Thoughts entwickelt und betreut – es gibt hier also kein großes Team von Entwicklern, Kundenbetreuern und Marketingleuten zu sehen. Also habt bitte Verständnis, dass das Handbuch nicht das dickste ist, meine Support-Antworten nicht die schnellsten sind und neue Funktionen etwas mehr Zeit brauchen.
-
-Viel Spass mit Sorting Thoughts!
+Hallo, my name is Hendrik Ebel,  I’m a software developer living near Berlin, Germany. I like to learn new things and of course I really like it to write notes on travel, at home, at work and on any places I can use Sorting Thoughts. Sorting Thoughts is my side project and playground to learn new software development stuff and skills. In my full-time job I work as Feature-Team lead and software developer for a medical device manufacturer. I have over 10 years experiences as software developer especially in the medical sector with high quality and security standards. Beside my work I like traveling and photography. Some of my photos I have shared on Instagram and 500px.com
+Btw, I’m the only person who worked on Sorting Thoughts – so here you can’t find a big team of developers, customer service and marketing guys. So please forgive me that the handbook is not the biggest, my support mails are not the fastest and new features needs a little bit more time.
+Enjoy Sorting Thoughts!
 
 ![Hendrik](/assets/images/sig.png)
 
@@ -45,6 +40,6 @@ Viel Spass mit Sorting Thoughts!
    [◀️ Home](index.md)
 </div>
 <div style="float:right;">
-  [Für wen ist ST ▶️](anwendungen_sortingthoughts.md)
+  [Who should use ST? ▶️](anwendungen_sortingthoughts.md)
 </div>
 </div>

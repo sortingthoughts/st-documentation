@@ -1,13 +1,13 @@
 ---
-title: "Anwendungen für Sorting Thoughts"
+title: "Examples of use for Sorting Thoughts"
 ---
 
 <div class="pageNavigation">
 <div style="float:left;">
-   [◀️ Geschichte von ST](ueber_sortingthoughts.md)
+   [◀️ About ST](ueber_sortingthoughts.md)
 </div>
 <div style="float:right;">
-  [Benutzerhandbuch ▶️](benutzerhandbuch.md)
+  [User Guide ▶️](benutzerhandbuch.md)
 </div>
 </div>
 
@@ -17,17 +17,17 @@ __Inhalt__
 {:toc}
 ---------------
 
-## Für wen ist Sorting Thoughts gemacht?
+## Who should use Sorting Thoughts?
 
-Wer auf der Suche nach einem Notizprogramm ist, wird sich fragen müssen:
+If you in search of a note-taking software, then you must ask yourself the following question:
 
-**"Welche Funktionen brauche ich und welche Haupteigenschaften muss mein Notizprogrammen haben?"**
+**"Which function do I need and which main principles must the note-taking software follow?"**
 
-Sorting Thoughts basiert auf drei Grundprinzipien:
+Sorting Thoughts based on three fundamental principle:
 
 ![ST-Grundprinzipien](/assets/images/ST-Grundprinzipien.png)
 
-### 1. Einfachheit
+### 1. Simplicity
 
 Sorting Thoughts soll die tägliche Gedankenarbeit erleichtern und sich einfach bedienen lassen, indem es die wesentlichen Grundfunktionen, die ein Notizprogramm braucht, in den Vordergrund stellt:
 
@@ -37,60 +37,72 @@ Sorting Thoughts soll die tägliche Gedankenarbeit erleichtern und sich einfach 
 
 Aber darüberhinaus auch weitere Funktionen bietet, die es z.B. erlauben Projekte und Aufgaben zu planen.
 
-### 2. Vertrauenswürdigkeit
+### 2. Trustworthiness
 
 Sorting Thoughts hat den Anspruch so vertrauenswürdig zu sein, das sprichwörtlich Gedanken in textueller Form erfasst werden können. Gedanken sind die persönlichste Komponente des Denkens und bleiben machmal aus gutem Grund unausgesprochen, da sie Teil eines Prozesses sind der noch nicht abgeschlossen ist und das wiederspiegelt was mit anderen Personen geteilt werden kann. Sorting Thoughts sorgt durch lokale Speicherung dafür das der Anwender 100% Kontrolle über seine Notizen hat. Verschlüsselung und Passwortschutz ermöglichen außerdem, dass nur der Anwender seine Notizen einsehen kann.
 
-### 3. Nützlichkeit
+### 3. Usefulness
 
 Die Nützlichkeit eines Notizprogramms zeigt sich im Arbeitsalltag, aber auch im Leben nach der Arbeit. Sorting Thoughts kann flexibel mit Notizen umgehen, da die Struktur und Ablage frei nach den eigenen Anforderungen angepasst werden kann. Sorting Thoughts ist neben der Desktop Version für Windows und macOS auch für mobile iOS Geräte (iPhone und iPad) verfügbar und kann so als täglicher Begleiter im Berufsleben und im privatem benutzt werden. Darüberhinaus ermöglicht der Sync-Service einen Abgleich der Gedanken zwischen den verwendeten Geräten.
 
-### Anwendungsbeispiele
+### Examples of use
 
-* Notizen schreiben und Brainstorming
-* Persönliches Wissens- und Selbstmanagement
-* Projekt- und Aufgabenplanung
-* Tagebuch schreiben
-* Arbeitsbuch und Projektlogbuch
-* Geheimfach für Notizen
-* Studienbuch	in Studium und Schule
-* elektronisches Langzeitgedächtnis
-* Ablage vertraulicher Daten
+* Note-taking and brainstorming
+* Personal knowledge and self management
+* Project and task planning
+* Writing a diary
+* Workbook and project journal
+* Secret vault
+* Study notebook
+* Electronically long-term memory
+* Saving private data
 
-### Funktionsüberblick der Desktop Version
+### Feature overview of the desktop version
 
-* **Einfacher Editor:** Den Fokus auf den Inhalt legen.
-* **Projekte und Aufgaben:** Verwalte deine Projekte und Aufgaben. Setze Prioritäten und Termine.
-* **Sicher:** Alle Einträge werden in einer verschlüsselten Datenbank gespeichert.
-* **Suchen:** Durchsuche deine gesamte Gedanken-Sammlung.
-* **Sortieren:** Sortiere Gedanken einfach per Drag’n’Drop.
-* **Sync Service:** Synchronisiere deine Gedanken zwischen iOS Geräten. Bald verfügbar auf der Desktop Version.
-* **Verlinken:** Verlinke deine Gedanken untereinander oder mit Webseiten.
-* **Vollbild-Modus:** Immer alles im Blick mit dem Vollbild-Modus.
-* **Dateianhänge:** Gib deinen Gedanken Bilder und hänge Dateien wie Bilder oder Dokumente an.
-* **Automatisches Backup:** Halte deine Gedanken sicher mit einem rotierenden und automatischen Backup.
-* **100% Privatsphäre:** Keine cloud-basierten Daten, keine Benutzer-Verfolgung, keine Werbung – es ist privat!
-* **Stichwörter:** Stichwörter geben deinen Gedanken einen neuen Kontext.
-* **Farbmarker:** Markiere Gedanken mit einer Farbe.
-* **Tastaturkürzel:** Sei schnell und benutze Tastaturkürzel.
-* **Bilder Galerie:** Betrachte angehängte Bilder in einer Galerie.
-* **Drucken:** Drucke deine Gedanken aus.
-* **Passwortschutz:** Schütze deine Gedanken vor anderen Blicken.
-* **Interoperabilität:** Läuft auf Windows, macOS und iOS.
-* **GTD fähig:** Der Getting Things Done Prozess wird unterstützt.
-* **HTML / Web Export:** Teile deine Gedanken per HTML Web Export.
-* **Gantt Diagramm:** Plane deine Aufgaben mit Hilfe von Gantt Diagrammen.
-* **Aufgaben-Management:** Nur ein Klick, um die nächsten Aufgaben zusehen.
-* **Import:** Mache deine Gedanke noch unabhängiger mit dem XML und CSV Import.
+* **Simple Editing:** Keep the focus on the content of your thoughts.
+* **Project and Task:** Manage your projects and tasks.
+* **Secure:** Your thoughts are saved in an encrypted database.
+* **Search:** Search across your thoughts.
+* **Free Sorting:** Sort your thoughts per drag and drop in the thought tree.
+* **Sync Service:** Sync your thoughts between your devices.
+* **Linking:** Link your thoughts to web pages or other thoughts.
+* **Full Screen Mode:** The full screen mode let’s you focused on your thoughts.
+* **Attachments:** Give your thoughts an image and attach files like photos and documents.
+* **Automatic Backup:** Keep your desktop thoughts safe with a rotating and automatic backup.
+* **100% Privacy:** No cloud-based data, no user tracking, no ads – it’s private!
+* **Tagging:** Tag thoughts and give your thoughts a new context.
+* **Color Marker:** Mark your thoughts with a color.
+* **Keyboard Shortcuts:** Be fast and use keyboard shortcuts on your desktop.
+* **Image Gallery:** View attached images in a gallery.
+* **Print:** Print your thoughts.
+* **Password Lock:** Keep your thoughts private.
+* **Interoperability:** Works on Windows, macOS and iOS.
+* **GTD ready:** Support for the Getting Things Done workflow.
+* **HTML / Web Export:** Share your thoughts on desktop by web export.
+* **Gantt Chart:** Plan your tasks in a Gantt chart.
+* **Task Management:** Only one click to see your next tasks.
+* **Import:** Make your thoughts more independent with the XML and CSV import.
 
+
+### Feature overview of the iOS version
+
+* Multiple thought collections
+* Tasks and projects
+* Photo attachments
+* Tagging
+* Color marker
+* Thought history
+* Sub thoughts
+* Password lock
+* Sync service
 
 ---------------
 
 <div class="pageNavigation">
 <div style="float:left;">
-   [◀️ Geschichte von ST](ueber_sortingthoughts.md)
+   [◀️ About ST](ueber_sortingthoughts.md)
 </div>
 <div style="float:right;">
-  [Benutzerhandbuch ▶️](benutzerhandbuch.md)
+  [User Guide ▶️](benutzerhandbuch.md)
 </div>
 </div>
