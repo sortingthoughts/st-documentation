@@ -19,53 +19,54 @@ __Inhalt__
 
 ## Desktop Version
 
-### Installationsvorraussetzungen
+### Installation Requirements
 
-* Windows Vista SP2 oder besser
-* macOS 10.8.3 (Mountain Lion) oder besser
-* mindestens 1 GB RAM
-* 300 MB freier Festplattenspeicher
-* Sprachen: Deutsch, Englisch
+* Windows Vista SP2 or better
+* macOS 10.8.3 (Mountain Lion) or better
+* least 1 GB RAM
+* 300 MB free hard disk space
+* Languages: German, English
 
 ### Windows
 
-1. Lade die EXE Datei für Windows herunter [Download Seite](https://www.sortingthoughts.de/blog/de/download/)
-2. Starte die EXE Datei und folge den Installationsanweisungen
-2. Nach dem letztem Installationsschritt kann Sorting Thoughts direkt gestartet werden
+1. Download the installer EXE file: [Download Page](https://www.sortingthoughts.de/blog/download/)
+2. Start the installer EXE file and follow the instructions
+2. After the last installation step, you can start Sorting Thoughts
 
 ### macOS
-1. Lade die DMG Datei für macOS herunter [Download Seite](https://www.sortingthoughts.de/blog/de/download/)
-2. Öffne die DMG Datei und verschiebe die Sorting Thoughts Datei in den Application / Programme Ordner
-2. Gehe zu Programme und starte Sorting Thoughts
+1. Download the DMG file for macOS: [Download Page](https://www.sortingthoughts.de/blog/download/)
+2. Open the DMG file and move the Sorting Thoughts app to your application folder
+2. Go to Applications and start Sorting Thoughts
 
-### Prüfsummen der Installationsdateien
+### Checksums of the installation files
 
 **Version 2.0.0**
 
-| Dateiname | SHA-1 Prüfsumme | MD5 Prüfsumme
+| Filename | SHA-1 Checksum | MD5 Checksum
 |:--------|:-------:|:-------:|
 | ST-setup-v2-0-0.exe | ??? | ??? |
 | ST-v2-0-0.dmg | ??? | ??? |
 
-[Prüfsummen der alter Versionen](download_pruefsummen.md)
+[Checksums of older versions](download_pruefsummen.md)
 
 ## iOS Version
 
-### Installationsvorraussetzungen
+### Installation Requirements
 
-* iOS 9 oder besser
-* kompatibel mit iPhone, iPad und iPod touch
-* Familienfreigabe für In-App Käufe wird unterstützt
-* Sprachen: Deutsch, Englisch
+* iOS 9 or better
+* compatible with iPhone, iPad and iPod touch
+* Family sharing will be supported for in-app purchases
+* Languages: German, English
 
 
-1. [App im App Store aufrufen](https://itunes.apple.com/de/app/sorting-thoughts/id932094917)
-2. kostenlos herunterladen und installieren
-2. Sorting Thoughts App starten
+1. [Open the App Store](https://itunes.apple.com/us/app/sorting-thoughts/id932094917)
+2. free download
+3. install the app
+4. start the Sorting Thoughts app
 
-## Versionsvergleich
+## Version Compare
 
-Siehe [Versionsvergleich](versionsvergleich.md)
+see [Version Compare](versionsvergleich.md)
 
 
 ---------------
@@ -75,6 +76,6 @@ Siehe [Versionsvergleich](versionsvergleich.md)
   [◀️ Schnelleinstieg](schnelleinstieg.md)
 </div>
 <div style="float:right;">
-  [Benutzerhandbuch ▶️](benutzerhandbuch.md) 
+  [Benutzerhandbuch ▶️](benutzerhandbuch.md)
 </div>
 </div>  

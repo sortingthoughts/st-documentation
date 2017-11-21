@@ -17,7 +17,7 @@ __Inhalt__
 {:toc}
 ---------------
 
-Versionsänderungen im Detail für die Desktop Version (Windows und macOS)
+Change log of the Desktop Version (Windows and macOS). The change log of the iOS version can be found in the app store.
 
 # Version 2.0.0 (??.??.2017)
 

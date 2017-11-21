@@ -11,6 +11,11 @@ title: "Gedanken verwalten Mobile-Version"
 </div>
 </div>
 
+<div class="notTranslated">
+This page is not yet translate. Please use Google translate until the translation is complete:
+<div id="google_translate_element"></div>
+</div> 
+
 ---------------
 __Inhalt__
 * TOC

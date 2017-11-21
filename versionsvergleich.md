@@ -17,52 +17,53 @@ __Inhalt__
 {:toc}
 ---------------
 
-## Versionsvergleich
+## Version Compare
 
 ### Desktop Version
 
-| Funktionen (Windows / macOS) | Freie-Version | Vollversion
+| Features (Windows / macOS) | Free-Version | Full-Version
 |:--------|:-------:|:-------:|
-|Standard Gedanken verwalten | ✅ | ✅ |
-|Externe Verweise | ✅ | ✅ |
-|Interne Verweise | ✅ | ✅ |
-|100% Privatsphäre | ✅ | ✅ |
-|Keine Werbung | ✅ | ✅ |
-|Kein Benutzer-Tracking | ✅ | ✅ |
-|Keine Speicherbegrenzung | ✅ | ✅ |
-|Verschlüsselte Daten ([XTEA](http://de.wikipedia.org/wiki/XTEA) mit 32 Zyklen) | ✅ | ✅ |
-|Mehrere Gedanken-Sammlungen| | ✅ |
-|Passwort Schutz | | ✅ |
-|Spezial Gedanken (Projekte, Aufgaben, ...) | | ✅ |
-|Nächste Aufgaben Filter (GTD fähig) | | ✅ |
-|Aufgabenplanung mit Gantt Chart | | ✅ |
-|Verschlagwortung / Tagging | | ✅ |
-|Dateianhänge | | ✅ |
-|Freies Sortieren | | ✅ |
-|Gedanken markieren | | ✅ |
-|Automatisches Backup | | ✅ |
-|Export von Gedanken (XML und Web Seiten) | | ✅ |
-|Import von Gedanken (XML und CSV) | | ✅ |
-|Sync Service Anbindung | | ✅ |
+|manage standard thoughts | ✅ | ✅ |
+|external links | ✅ | ✅ |
+|internal links | ✅ | ✅ |
+|100% data control | ✅ | ✅ |
+|no ads | ✅ | ✅ |
+|no user tracking | ✅ | ✅ |
+|no space limit | ✅ | ✅ |
+|printing | ✅ | ✅ |
+|encrypted data ([XTEA](https://en.wikipedia.org/wiki/XTEA) with 32 rounds) | ✅ | ✅ |
+|multiple thought collections| | ✅ |
+|password lock | | ✅ |
+|special thoughts (projects, tasks, ...) | | ✅ |
+|find next tasks filter (GTD ready) | | ✅ |
+|task scheduling with Gantt chart | | ✅ |
+|tagging | | ✅ |
+|attachments | | ✅ |
+|free sorting | | ✅ |
+|color marker | | ✅ |
+|automatic backup | | ✅ |
+|export thoughts (XML, Web pages) | | ✅ |
+|import thoughts (XML, CSV) | | ✅ |
+|Sync Service | | ✅ |
 
 ### iOS Version
 
-| Funktionen (iPhone / iPad) | Freie-Version | Min Pack | Max Pack | Sync Abo
+| Features (iPhone / iPad) | Free-Version | Min Pack | Max Pack | Sync Abo
 |:--------|:-------:|:-------:|:-------:|:-------:|
-|Standard Gedanken verwalten | ✅ | ✅ | ✅ | ✅ |
-|100% Privatsphäre | ✅ | ✅ | ✅ | ✅ |
-|Keine Werbung | ✅ | ✅ | ✅ | ✅ |
-|Kein Benutzer-Tracking | ✅ | ✅ | ✅ | ✅ |
-|Keine Speicherbegrenzung | ✅ | ✅ | ✅ | ✅ |
-|Verschlüsselte Daten (via iOS) | ✅ | ✅ | ✅ | ✅ |
-|Gedanken markieren | | ✅ | ✅ | ✅ |
-|Passwort Schutz | | ✅ | ✅ | ✅ |
-|Mehrere Gedanken-Sammlungen| | | ✅ | ✅ |
-|Spezial Gedanken (Projekte, Aufgaben, ...) | | | ✅ | ✅ |
-|Nächste Aufgaben Filter (GTD fähig) | | | ✅ | ✅ |
-|Verschlagwortung / Tagging | | | ✅ | ✅ |
-|Dateianhänge | | | ✅ | ✅ |
-|Freies Sortieren | | | ✅ | ✅ |
+|manage standard thoughts | ✅ | ✅ | ✅ | ✅ |
+|100% data control | ✅ | ✅ | ✅ | ✅ |
+|no ads | ✅ | ✅ | ✅ | ✅ |
+|no user tracking | ✅ | ✅ | ✅ | ✅ |
+|no space limit | ✅ | ✅ | ✅ | ✅ |
+|encrypted data (via iOS) | ✅ | ✅ | ✅ | ✅ |
+|color marker | | ✅ | ✅ | ✅ |
+|password lock | | ✅ | ✅ | ✅ |
+|multiple thought collections| | | ✅ | ✅ |
+|special thoughts (projects, tasks, ...) | | | ✅ | ✅ |
+|find next tasks filter (GTD ready) | | | ✅ | ✅ |
+|tagging | | | ✅ | ✅ |
+|attachments | | | ✅ | ✅ |
+|free sorting | | | ✅ | ✅ |
 |Sync Service | | |  | ✅ |
 
 

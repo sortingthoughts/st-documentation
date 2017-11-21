@@ -17,12 +17,13 @@ __Inhalt__
 {:toc}
 ---------------
 
-Um sicher zu gehen, das die Installationsdatei unverändert ist und sich in dem Zustand befindet wie sie erzeugt wurde, ist es ratsam eine MD5 Prüfsumme zu erzeugen und mit der in der Tabelle unter zu vergleichen. Wenn die Prüfsummen identisch sind, ist alles in Ordnung und die Datei wurde nicht verändert, um z.B. Schadsoftware einzuschleusen. Falls die Prüfsumme jedoch abweicht, löschen Sie bitte die Installationsdatei und laden Sie diese direkt von der offiziellen [Download-Seite](https://www.sortingthoughts.de/blog/de/download/) herunter.
-Um mehr über Prüfsummen zu erfahren, besuchen Sie bitte [Wikipedia.org](http://de.wikipedia.org/wiki/Checksum).
+To make certain that no one has modified the software between the time of creation and the time you wish to install it, you can calculate the MD5 (Message-Digest algorithm 5) checksum and compare your result to the MD5 checksum published in the table below. If the file has not been modified by some sinister malware person, the checksums will match. Otherwise you should delete this file and download it directly form the official download page.
+
+To learn more about Checksum, visit [Wikipedia.org](https://en.wikipedia.org/wiki/Checksum).
 
 ## Version 1.4.0
 
-| Dateiname | MD5 Prüfsumme |
+| File name | MD5 Checksum |
 |:--------|:-------:|
 | ST-32bit-setup-v1-4-0.exe | b59a6d591b9cd65b806239bc2512163e |
 | ST-32bit-v1-4-0.dmg | 74111fd51306b48e2dc7d8d543337ab4 |
@@ -30,19 +31,24 @@ Um mehr über Prüfsummen zu erfahren, besuchen Sie bitte [Wikipedia.org](http:/
 | ST-64bit-v1-4-0.dmg | 1d75b512a70177d234b76ad3b53ef7ce |
 | ST-Tiger-32bit-v1-4-0.dmg | 7865a9a98971407a49b7c866669a9944 |
 
-## Prüfsumme unter macOS erzeugen
-Das Terminal Programm öffnen, mit dem cd Befehl zum Verzeichnis wechseln indem sich die Datei befindet und dann den md5 Befehl benutzen:
+## Create a checksum on macOS
+Open the terminal, switch to the directory that contains the file to check and type:
 
+for MD5:
+
+```
     cd Downloads
     md5 ST-64bit-v1-0-2.dmg
+```
 
-oder für SHA-1
+oder for SHA-1
 
+```
     shasum -a 1 ST-v2-0-0.dmg
+```
 
-
-## Prüfsumme unter Windows erzeugen
-Unter Windows gibt es verschiedene Programme mit denen man einen Prüfsumme erzeugen kann, z.B. [HashCheck](https://github.com/gurnec/HashCheck/releases).
+## Create a checksum on Windows
+You can use a tool like [HashCheck](https://github.com/gurnec/HashCheck/releases).
 
 ---------------
 
