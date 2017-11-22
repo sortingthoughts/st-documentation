@@ -11,16 +11,16 @@ title: "Benutzerhandbuch"
 </div>
 </div>
 
-## Sorting Thoughts Benutzerhandbuch
+## Sorting Thoughts User Guide
 
-### [Schnelleinstieg](schnelleinstieg.md)
-### [Installation](installation.md)
-### [Gedanken-Bibliothek](/handbuch/gedanken_bibliothek.md)
-### [Grundlagen](/handbuch/grundlagen.md)
-### [Gedanken verwalten](/handbuch/gedanken_verwalten.md)
-### [Projekt und Aufgabenmanagement](/handbuch/projekte_und_aufgaben.md)
-### [Sync Service](sync_service.md)
-### [Fragen und Antworten](fragen_und_antworten.md)
+#### [Quick Start](schnelleinstieg.md)
+#### [Installation](installation.md)
+#### [Thought-Library](/handbuch/gedanken_bibliothek.md)
+#### [Basics](/handbuch/grundlagen.md)
+#### [Thought Management](/handbuch/gedanken_verwalten.md)
+#### [Project and Task Management](/handbuch/projekte_und_aufgaben.md)
+#### [Sync Service](sync_service.md)
+#### [FAQ](fragen_und_antworten.md)
 
 ---------------
 

@@ -29,21 +29,22 @@ Sorting Thoughts based on three fundamental principle:
 
 ### 1. Simplicity
 
-Sorting Thoughts soll die tägliche Gedankenarbeit erleichtern und sich einfach bedienen lassen, indem es die wesentlichen Grundfunktionen, die ein Notizprogramm braucht, in den Vordergrund stellt:
+Sorting Thoughts should simplify your daily work with notes and thoughts. This will be accomplished by a easy interface and by providing of the essential note-taking functions like:
 
-* Notizen erfassen
-* Notizen strukturieren
-* Notizen verknüpfen
+* create notes
+* structure notes
+* link notes
 
-Aber darüberhinaus auch weitere Funktionen bietet, die es z.B. erlauben Projekte und Aufgaben zu planen.
+But beyond that also offers features that allow, for example, to plan projects and tasks.
 
 ### 2. Trustworthiness
 
-Sorting Thoughts hat den Anspruch so vertrauenswürdig zu sein, das sprichwörtlich Gedanken in textueller Form erfasst werden können. Gedanken sind die persönlichste Komponente des Denkens und bleiben machmal aus gutem Grund unausgesprochen, da sie Teil eines Prozesses sind der noch nicht abgeschlossen ist und das wiederspiegelt was mit anderen Personen geteilt werden kann. Sorting Thoughts sorgt durch lokale Speicherung dafür das der Anwender 100% Kontrolle über seine Notizen hat. Verschlüsselung und Passwortschutz ermöglichen außerdem, dass nur der Anwender seine Notizen einsehen kann.
+Sorting Thoughts has claim to be as trustworthy, that you can record your thoughts in textual form. Thoughts are the most personal component of thinking and sometimes you will have good reason to unspoken it.
+Because they are part of a process which is still ongoing and are not ready to be shared with other people. Sorting Thoughts provides by local storage for which the user has 100% control over his notes. Encryption and password protection also allow that only the user can view his notes.
 
 ### 3. Usefulness
 
-Die Nützlichkeit eines Notizprogramms zeigt sich im Arbeitsalltag, aber auch im Leben nach der Arbeit. Sorting Thoughts kann flexibel mit Notizen umgehen, da die Struktur und Ablage frei nach den eigenen Anforderungen angepasst werden kann. Sorting Thoughts ist neben der Desktop Version für Windows und macOS auch für mobile iOS Geräte (iPhone und iPad) verfügbar und kann so als täglicher Begleiter im Berufsleben und im privatem benutzt werden. Darüberhinaus ermöglicht der Sync-Service einen Abgleich der Gedanken zwischen den verwendeten Geräten.
+The usefulness of a note program shows up in everyday work, but also in life after work. Sorting Thoughts can deal flexibly with notes as the structure and the rest can be freely adjusted according to your requirements. Sorting Thoughts is in addition to the desktop version for Windows and macOS also available for mobile iOS devices (iPhone and iPad) and can be used as a daily companion in the workplace and in private. In addition, the sync service allows a balance of thought between the equipment used.
 
 ### Examples of use
 
