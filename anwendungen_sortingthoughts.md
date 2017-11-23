@@ -25,7 +25,7 @@ If you in search of a note-taking software, then you must ask yourself the follo
 
 Sorting Thoughts based on three fundamental principle:
 
-![ST-Grundprinzipien](/assets/images/ST-Grundprinzipien.png)
+![ST fundamental principle](/assets/images/ST-Grundprinzipien-en.png)
 
 ### 1. Simplicity
 
