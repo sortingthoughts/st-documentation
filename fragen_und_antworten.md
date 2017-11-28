@@ -4,7 +4,7 @@ title: "FAQ - Fragen und Antworten"
 
 <div class="pageNavigation">
 <div style="float:left;">
-   [◀️ Benutzerhandbuch](benutzerhandbuch.md)
+   [◀️ User Guide](benutzerhandbuch.md)
 </div>
 <div style="float:right;">
   [Home ▶️](index.md)
@@ -17,60 +17,55 @@ __Inhalt__
 {:toc}
 ---------------
 
-## Fragen und Antworten
+## Frequently Asked Questions
 
 
+#### I lost my registration code for ST desktop version.
 
-#### Ich habe meinen Registrierungscode verloren.
-
-Bitte melden Sie sich per [Kontaktformular](https://www.sortingthoughts.de/blog/de/report-a-bug/).
-
----------------
-
-#### Ich habe mein Passwort vergessen. Was nun?
-
-Sorry, aber leider kannst Du jetzt nicht mehr auf deine Daten zugreifen, da nur Du das Passwort kennst. Es gibt keine Passwort-Erinnerungsfunktion. Dies gilt sowohl für die Desktop-Version als auch für die Mobile-Version.
+Please contact me via the [contact form](https://www.sortingthoughts.de/blog/report-a-bug/).
 
 ---------------
 
-#### Was ist der Unterschied zwischen der Single und Family Version?
+#### I lost my password. What can I do now?
 
-Die Family Version kann von bis zu 5 Benutzern verwendet werden und eignet sich auch für kleine Unternehmen.  
-
----------------
-
-#### Welchen Verschlüsselungsalgorithmus verwenden Sorting Thoughts?
-
-Die zugrundeliegende Datenbank von Sorting Thoughts in der Desktop Version ([H2 Database](http://www.h2database.com/)) ist mit dem [XTEA](http://de.wikipedia.org/wiki/Extended_Tiny_Encryption_Algorithm) (eXtended Tiny Encryption Algorithm) Algorithmus verschlüsselt. Es werden 32 Zyklen benutzt.
-
-Unter iOS werden die [Standard Security-Maßnahmen](https://images.apple.com/de/business/docs/iOS_Security_Guide.pdf) von Apple eingesetzt (NSFileProtectionComplete), um die Daten zu verschlüsseln.
+Sorry! You have no chance to read your data. Only yourself know the password. Please remember your desktop and mobile app password.
 
 ---------------
 
-#### Wo kann ich Fehler melden?
+#### What is the different between single and family version?
 
-Bitte melden Sie Fehler per [Kontaktformular](https://www.sortingthoughts.de/blog/de/report-a-bug/) oder über die Kontaktmöglichkeit innhalb der iOS App.
-
----------------
-
-#### Wo muss ich den Test Registrierungscode eingeben?
-
-// TODO: menue update
-
-Um alle Funktionen von Sorting Thoughts 30 Tage lang testen zu können, muss ein kostenloser [Test Registrierungscode angefordert](https://www.sortingthoughts.de/blog/de/test-sorting-thoughts/) werden. Der Code kann dann im "Sorting Thoughts kaufen" Dialog eingegeben werden. Dieser Dialog ist per "Hilfe" > "Registrierungscode" Menüpunkt erreichbar.
+The Family version can be used by up to 5 users and is also suitable for small businesses.
 
 ---------------
 
-#### Wo werden die Einstellungen gespeichert?
+#### Which algorithm used Sorting Thoughts to encrypt my entries?
 
-Die Einstellungen von Sorting Thoughts (Desktop Version) werden im Benutzerverzeichnis gespeichert und zwar in dem versteckten Ordner: ".sortingThoughts". Bei einer Neuinstallation oder Update werden die Einstellungen nicht gelöscht.
+All entries in Sorting Thoughts are encrypted with the [XTEA](http://en.wikipedia.org/wiki/XTEA) (32 cycles) encryption algorithm. The encryption mechanism is a feature of the used database H2.
 
+The iOS version used the [standard security features](https://images.apple.com/de/business/docs/iOS_Security_Guide.pdf) of iOS  with NSFileProtectionComplete to encrypt data.
+
+---------------
+
+#### I have found a bug or have questions.
+
+If you found a bug or having a problem with Sorting Thoughts, please send me your bug report, question or problem by filling this contact form:
+ [Report a bug](https://www.sortingthoughts.de/blog/report-a-bug/)
+
+In the iOS app of ST you can send support mails directly.
+
+---------------
+
+#### Where can I enter the test registration code?
+
+You can test all features of the desktop version except the sync service with a [30 day test registration code](https://www.sortingthoughts.de/blog/test-sorting-thoughts/). Please enter this code in the “Help > Serial number register...” dialog of the desktop version.
+
+![enter register code](./assets/images/sn-enter.png)
 
 ---------------
 
 <div class="pageNavigation">
 <div style="float:left;">
-   [◀️ Benutzerhandbuch](benutzerhandbuch.md)
+   [◀️ User Guide](benutzerhandbuch.md)
 </div>
 <div style="float:right;">
   [Home ▶️](index.md)
