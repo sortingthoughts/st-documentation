@@ -11,15 +11,9 @@ title: "Grundlagen"
 </div>
 </div>
 
-<div class="notTranslated">
-This page is not yet translated. Please use Google translate until the translation is complete:
-<div id="google_translate_element"></div>
-</div>
+## Basics
 
+It's all about thoughts. Every entry in Sorting Thoughts is a thought. A thought can be have a simple thought type or a special type like project, task or event.
 
-## Grundlagen
-
-Alles in Sorting Thoughts dreht sich um Gedanken bzw. um das Verwalten von textuellen Gedanken. Gedanken sind im Kontext von Sorting Thoughts einfache Text Notizen oder aber spezielle Notizen wie z.B. Projekte, Aufgaben oder Ereignisse.
-
-### [Desktop-Version](grundlagen_desktop.md)
-### [Mobile-Version](grundlagen_mobile.md)
+### [Desktop version](grundlagen_desktop.md)
+### [Mobile version](grundlagen_mobile.md)
