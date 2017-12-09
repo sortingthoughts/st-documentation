@@ -4,17 +4,17 @@ title: "Grundlagen Desktop-Version"
 
 <div class="pageNavigation">
 <div style="float:left;">
-   [◀️ Gedanken-Bibliothek](gedanken_bibliothek.md)
+   [◀️ Thought library](gedanken_bibliothek.md)
 </div>
 <div style="float:right;">
-  [Gedanken verwalten ▶️](gedanken_verwalten_desktop.md)
+  [Manage thoughts ▶️](gedanken_verwalten_desktop.md)
 </div>
 </div>
 
 <div class="notTranslated">
-This page is not yet translate. Please use Google translate until the translation is complete:
+This page is not yet translated. Please use Google translate until the translation is complete:
 <div id="google_translate_element"></div>
-</div> 
+</div>
 
 ---------------
 __Inhalt__

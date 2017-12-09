@@ -4,7 +4,7 @@ title: "Sync Service"
 
 <div class="pageNavigation">
 <div style="float:left;">
-   [◀️ Projekte / Aufgaben](./handbuch/projekte_und_aufgaben.md)
+   [◀️ Projects and Tasks](./handbuch/projekte_und_aufgaben.md)
 </div>
 <div style="float:right;">
   [FAQ ▶️](fragen_und_antworten.md)
@@ -12,9 +12,9 @@ title: "Sync Service"
 </div>
 
 <div class="notTranslated">
-This page is not yet translate. Please use Google translate until the translation is complete:
+This page is not yet translated. Please use Google translate until the translation is complete:
 <div id="google_translate_element"></div>
-</div> 
+</div>
 
 ---------------
 __Inhalt__

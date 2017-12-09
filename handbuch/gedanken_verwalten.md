@@ -1,26 +1,21 @@
 ---
-title: "Gedanken verwalten"
+title: "Manage thoughts"
 ---
 
 <div class="pageNavigation">
 <div style="float:left;">
-   [◀️ Grundlagen](grundlagen.md)
+   [◀️ Basics](grundlagen.md)
 </div>
 <div style="float:right;">
-  [Projekte / Aufgaben ▶️](projekte_und_aufgaben.md)
+  [Projects and Tasks ▶️](projekte_und_aufgaben.md)
 </div>
 </div>
-
-<div class="notTranslated">
-This page is not yet translate. Please use Google translate until the translation is complete:
-<div id="google_translate_element"></div>
-</div> 
 
 ---------------
 
-## Gedanken verwalten
+## Manage thoughts
 
-Sorting Thoughts stellt verschiedene Funktionen bereit, die es ermöglichen seine Gedanken auf einfache Art und Weise zu verwalten.
+Sorting Thoughts provides different features to manage your thoughts with ease.
 
-### [Desktop-Version](gedanken_verwalten_desktop.md)
-### [Mobile-Version](gedanken_verwalten_mobile.md)
+### [Desktop version](gedanken_verwalten_desktop.md)
+### [Mobile version](gedanken_verwalten_mobile.md)

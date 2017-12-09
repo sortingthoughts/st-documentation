@@ -1,5 +1,5 @@
 ---
-title: "Gedanken-Bibliothek"
+title: "Thought Library"
 ---
 
 <div class="pageNavigation">
@@ -7,12 +7,12 @@ title: "Gedanken-Bibliothek"
    [◀️ Installation](../installation.md)
 </div>
 <div style="float:right;">
-  [Grundlagen ▶️](grundlagen.md)
+  [Basics ▶️](grundlagen.md)
 </div>
 </div>  
 
 <div class="notTranslated">
-This page is not yet translate. Please use Google translate until the translation is complete: 
+This page is not yet translated. Please use Google translate until the translation is complete:
 <div id="google_translate_element"></div>
 </div>    
 

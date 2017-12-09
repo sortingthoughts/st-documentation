@@ -1,20 +1,20 @@
 ---
-title: "Gedanken verwalten Mobile-Version"
+title: "Manage thoughts - mobile version"
 ---
 
 <div class="pageNavigation">
 <div style="float:left;">
-   [◀️ Grundlagen](grundlagen_mobile.md)
+   [◀️ Basics](grundlagen_mobile.md)
 </div>
 <div style="float:right;">
-  [Projekte / Aufgaben ▶️](projekte_und_aufgaben.md)
+  [Projects and Tasks ▶️](projekte_und_aufgaben.md)
 </div>
 </div>
 
 <div class="notTranslated">
-This page is not yet translate. Please use Google translate until the translation is complete:
+This page is not yet translated. Please use Google translate until the translation is complete:
 <div id="google_translate_element"></div>
-</div> 
+</div>
 
 ---------------
 __Inhalt__

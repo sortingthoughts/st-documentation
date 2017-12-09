@@ -4,10 +4,10 @@ title: "Installation"
 
 <div class="pageNavigation">
 <div style="float:left;">
-  [◀️ Schnelleinstieg](schnelleinstieg.md)
+  [◀️ Quick Start](schnelleinstieg.md)
 </div>
 <div style="float:right;">
-  [Benutzerhandbuch ▶️](benutzerhandbuch.md)
+  [User Guide ▶️](benutzerhandbuch.md)
 </div>
 </div>
 
