@@ -85,6 +85,6 @@ Die Desktop Version verfügt über eine automatische Backupfunktion, die die ges
    [◀️ Installation](../installation.md)
 </div>
 <div style="float:right;">
-  [Grundlagen ▶️](grundlagen.md)
+  [Basics ▶️](grundlagen.md)
 </div>
 </div>

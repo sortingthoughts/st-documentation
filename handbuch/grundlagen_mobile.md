@@ -95,9 +95,9 @@ Wichtig ist das Sorting Thoughts die Erlaubnis hat Fotos aus der Galerie lesen z
 
 <div class="pageNavigation">
 <div style="float:left;">
-   [◀️ Gedanken-Bibliothek](gedanken_bibliothek.md)
+   [◀️ Thought library](gedanken_bibliothek.md)
 </div>
 <div style="float:right;">
-  [Gedanken verwalten ▶️](gedanken_verwalten_mobile.md)
+  [Manage thoughts ▶️](gedanken_verwalten_mobile.md)
 </div>
 </div>

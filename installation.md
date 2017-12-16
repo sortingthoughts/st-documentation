@@ -44,8 +44,8 @@ __Inhalt__
 
 | Filename | SHA-1 Checksum | MD5 Checksum
 |:--------|:-------:|:-------:|
-| ST-setup-v2-0-0.exe | ??? | ??? |
-| ST-v2-0-0.dmg | ??? | ??? |
+| SortingThoughts-Installer_2.0.0.exe | ec3ccf3efcc723d88cebc2912ba6d14d7db4438a | 6e8c44fe3f5782e9662cd6ef27de3777  |
+| SortingThoughts-2.0.0.dmg | fc254359ec17a1e454656107fa00bf2e8933a3e5 | 50468d4dde88a67b8557350e627e9c66 |
 
 [Checksums of older versions](download_pruefsummen.md)
 

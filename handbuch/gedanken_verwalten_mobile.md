@@ -99,9 +99,9 @@ Die Auflistung der Stichwörter lässt sich ebenfalls sortieren nach:
 
 <div class="pageNavigation">
 <div style="float:left;">
-   [◀️ Grundlagen](grundlagen_mobile.md)
+   [◀️ Basics](grundlagen_mobile.md)
 </div>
 <div style="float:right;">
-  [Projekte / Aufgaben ▶️](projekte_und_aufgaben.md)
+  [Projects and Tasks ▶️](projekte_und_aufgaben.md)
 </div>
 </div>

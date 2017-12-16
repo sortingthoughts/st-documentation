@@ -148,9 +148,9 @@ Der Bereich "Anhänge" unter dem Gedanken-Editor verfügt über ein Kontextmenü
 
 <div class="pageNavigation">
 <div style="float:left;">
-   [◀️ Gedanken-Bibliothek](gedanken_bibliothek.md)
+   [◀️ Thought library](gedanken_bibliothek.md)
 </div>
 <div style="float:right;">
-  [Gedanken verwalten ▶️](gedanken_verwalten_desktop.md)
+  [Manage thoughts ▶️](gedanken_verwalten_desktop.md)
 </div>
 </div>

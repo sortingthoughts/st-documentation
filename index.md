@@ -13,9 +13,9 @@
 #### [FAQ](fragen_und_antworten.md)
 
 ## More Information
-#### [Homepage](https://www.sortingthoughts.de/blog/de/)
-#### [Download](https://www.sortingthoughts.de/blog/de/download/)
-#### [Screenshot](https://www.sortingthoughts.de/blog/de/screenshots/)
+#### [Homepage](https://www.sortingthoughts.de/blog/)
+#### [Download](https://www.sortingthoughts.de/blog/download/)
+#### [Screenshot](https://www.sortingthoughts.de/blog/screenshots/)
 #### [Screencast Videos](https://www.youtube.com/user/SortingThoughts)
 #### [Version Compare](versionsvergleich.md)
 #### [Changelog of the desktop version](versionsaenderungen.md)

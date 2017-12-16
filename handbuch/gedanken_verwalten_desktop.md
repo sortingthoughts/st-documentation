@@ -160,9 +160,9 @@ Stichwörter sind besonders nützlich für Projekte und Aufgaben, da so weitere 
 
 <div class="pageNavigation">
 <div style="float:left;">
-   [◀️ Grundlagen](grundlagen_desktop.md)
+   [◀️ Basics](grundlagen_desktop.md)
 </div>
 <div style="float:right;">
-  [Projekte / Aufgaben ▶️](projekte_und_aufgaben.md)
+  [Projects and Tasks ▶️](projekte_und_aufgaben.md)
 </div>
 </div>

@@ -44,11 +44,11 @@ __Inhalt__
 |automatic backup | | ✅ |
 |export thoughts (XML, Web pages) | | ✅ |
 |import thoughts (XML, CSV) | | ✅ |
-|Sync Service | | ✅ |
+|[Sync Service](sync_service.md) ready | | ✅ |
 
 ### iOS Version
 
-| Features (iPhone / iPad) | Free-Version | Min Pack | Max Pack | Sync Abo
+| Features (iPhone / iPad) | Free-Version | Min Pack | Max Pack | Sync Sub.
 |:--------|:-------:|:-------:|:-------:|:-------:|
 |manage standard thoughts | ✅ | ✅ | ✅ | ✅ |
 |100% data control | ✅ | ✅ | ✅ | ✅ |
@@ -64,7 +64,7 @@ __Inhalt__
 |tagging | | | ✅ | ✅ |
 |attachments | | | ✅ | ✅ |
 |free sorting | | | ✅ | ✅ |
-|Sync Service | | |  | ✅ |
+|[Sync Service](sync_service.md) | | |  | ✅ |
 
 
 ---------------
