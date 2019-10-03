@@ -54,7 +54,7 @@ After a collection has been created, a new thought can be created from the menu 
 
 ### Main controls of the desktop version
 
-![ST Erklaert](/assets/images/st-erklaert.png)
+![ST Erklaert](/assets/images/st-erklaert-eng.png)
 
 ## Quick Start iOS Version
 
