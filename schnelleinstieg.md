@@ -19,7 +19,7 @@ __Inhalt__
 
 ## Quick Start Desktop Version
 
-** Quick Start Video (English subtitle)
+**Quick Start Video (English subtitle)**
 
 [![IMAGE Quick Start Video](http://img.youtube.com/vi/iM9MuyhYE5o/0.jpg)](https://youtu.be/iM9MuyhYE5o)
 
