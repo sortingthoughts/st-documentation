@@ -19,18 +19,23 @@ __Inhalt__
 
 Change log of the Desktop Version (Windows and macOS). The change log of the iOS version can be found in the app store.
 
-# Version 2.0.0 (16. Dec 2017)
+# Version 2.1.0 (23. Nov 2020) - "faster, sharper, darker"
+
+New Features
+- Dark Mode support
+- Retina / 4k display support
+- Much better performance and start up times
 
 Bugs
-- fixed missing attachment zoom short cuts on macOS
-- fixed installation problems with a bundled Java Runtime Environment
-- macOS version works now correct with Apple Gatekeeper
-- and many more
+- Thought Tree: create sub thought with correct parent thought
+- New thought name field repaired
+- HTML export works for modern browsers
+- Styling issues for Windows 10 and macOS fixed
 
-Improvements
-- improved CVS and XML import
-- high resolution support
-- performance improvements
+Good to know
+- removed 32bit support for Windows
+
+# Version 2.0.0 (16. Dec 2017) - "sync now"
 
 New Features
 - new design similar to iOS app of ST
@@ -41,18 +46,30 @@ New Features
 - font size of thought tree and editor can be changed
 - create multiple thoughts via text select and right click of a bullet point list in editor
 
-# Version 1.4.0 (27. Nov 2012)
+Improvements
+- improved CVS and XML import
+- high resolution support
+- performance improvements
+
 Bugs
-- Broken Thought by adding a too big attachment
-- Tag View shows thoughts without marker color
+- fixed missing attachment zoom short cuts on macOS
+- fixed installation problems with a bundled Java Runtime Environment
+- macOS version works now correct with Apple Gatekeeper
+- and many more
+
+
+# Version 1.4.0 (27. Nov 2012)
+New Features
+- Add fast way to complete tasks and projects
+- Shortcut to create a diary thought name
 
 Improvements
 - Modify number of backup iterations
 - Remove email mandatory field for 30 day trial activation code
 
-New Features
-- Add fast way to complete tasks and projects
-- Shortcut to create a diary thought name
+Bugs
+- Broken Thought by adding a too big attachment
+- Tag View shows thoughts without marker color
 
 
 # Version 1.3.0 (13. Mrz. 2012)

@@ -21,10 +21,10 @@ __Inhalt__
 
 ### Installation Requirements
 
-* Windows Vista SP2 or better
-* macOS 10.8.3 (Mountain Lion) or better
+* Windows 10 (64bit) or better
+* macOS 10.10 (Yosemite) or better
 * least 1 GB RAM
-* 300 MB free hard disk space
+* 400 MB free hard disk space
 * Languages: German, English
 
 ### Windows
@@ -40,12 +40,12 @@ __Inhalt__
 
 ### Checksums of the installation files
 
-**Version 2.0.0**
+**Version 2.1.0**
 
 | Filename | SHA-1 Checksum | MD5 Checksum
 |:--------|:-------:|:-------:|
-| SortingThoughts-Installer_2.0.0.exe | ec3ccf3efcc723d88cebc2912ba6d14d7db4438a | 6e8c44fe3f5782e9662cd6ef27de3777  |
-| SortingThoughts-2.0.0.dmg | fc254359ec17a1e454656107fa00bf2e8933a3e5 | 50468d4dde88a67b8557350e627e9c66 |
+| SortingThoughts-Installer_2.1.0.exe | 2b45a687b9516c764610267c95d5002fe029a240 | dc936ce8f1db8599587816dd164d62c3  |
+| SortingThoughts-2.1.0.dmg | 4faa47d85a9630f514e80d24e66c22143cfdcfdc | a588a5c33a2f7dd7fb681684ba768766 |
 
 [Checksums of older versions](download_pruefsummen.md)
 
