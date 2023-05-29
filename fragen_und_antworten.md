@@ -51,7 +51,15 @@ The iOS version used the [standard security features](https://images.apple.com/d
 If you found a bug or having a problem with Sorting Thoughts, please send me your bug report, question or problem by filling this contact form:
  [Report a bug](https://www.sortingthoughts.de/blog/report-a-bug/)
 
-In the iOS app of ST you can send support mails directly.
+In the iOS app of ST you can send support mails directly from inside the app. The mail includes some information about your app version and your device. Please use this feature to send me your bug report, question or problem.
+
+![App support view](./assets/images/Support_en.png)
+
+---------------
+
+#### Can I see the progress of the development?
+
+To see the progress of the development you can use the [GitHub Project Page](https://github.com/sortingthoughts/backlog/issues). You can also create new feature requests or bug reports there.
 
 ---------------
 
