@@ -11,11 +11,6 @@ title: "Sync Service"
 </div>
 </div>
 
-<div class="notTranslated">
-This page is not yet translated. Please use Google translate until the translation is complete:
-<div id="google_translate_element"></div>
-</div>
-
 ---------------
 __Inhalt__
 * TOC
@@ -24,89 +19,95 @@ __Inhalt__
 
 ## Sync Service
 
-Der ST Sync Service ermöglicht das Synchronisieren von Gedanken zwischen iOS und macOS bzw. MS Windows Geräten. So bleiben die Gedanken-Sammlungen auf allen Geräten synchron und ermöglichen ein geräteübergreifendes Arbeiten.
+The ST Sync Service allows you to synchronize thoughts between iOS and macOS or MS Windows devices. This keeps the thought collections synchronized on all devices and allows cross-device work.
 
 ![ST Sync Service](./assets/images/ST-SyncService.png)
 
-Der Service wurde nach dem 'Privatsphäre zuerst' Prinzip entwickelt, d.h. es werden keine persönlichen Daten für den Service benötigt und der Austausch erfolgt komplett Ende-zu-Ende verschlüsselt. Außerdem ist nur der Geräteinhaber in der Lage, die empfangenen Daten zu entschlüsseln, da nur er im Besitz des privaten Schlüssels ist. Die synchronisierten Daten werden zudem nach dem erfolgreichen Sync oder falls das Empfängergerät die Sync-Daten nach 30 Tagen nicht abgeholt hat vom Server gelöscht.
+The service is implemented according to the 'privacy first' principle, i.e. no personal data is required for the service and the exchange is completely end-to-end encrypted. In addition, only the device owner is able to decrypt the received data, because only he is in possession of the private key. The synchronized data is also deleted from the server after successful synchronization or if the receiving device has not picked up the synchronization data after 30 days.
 
-Server-Standort ist Deutschland und europäische sowohl deutsche Datenschutzrichtlinien werden von dem Service voll erfüllt.
+Server location is Germany and European as well as German data protection guidelines are fully met by the service.
 
-**Privat**
+**Private**
 
-Keine persönlichen Daten erforderlich, kein Benutzer-Tracking, vollständiges Löschen der eigenen Service-Daten jederzeit möglich. Es ist nur ein Sync Service und enthält kein Cloud Backup - voll Kontrolle über seine Daten.
+No personal data required, no user tracking, complete deletion of your own service data possible at any time. It is only a sync service and does not contain any cloud backup - you have alawys the full control over your data.
 
-**Sicher**
+**Secure**
 
-Volle Ende-zu-Ende Verschlüsselung mit standardisierten Technologien wie RSA, AES, TLS/SSL
+The sync service supports full end-to-end encryption with standardized technologies such as RSA, AES, TLS/SSL. The data is encrypted on the sending device and can only be decrypted on the receiving device. The service provider has no access to the data.
 
-**Unabhängig**
+**Independent**
 
-Hinter Sorting Thoughts steht kein großes Unternehmen oder Investoren, sondern ein einzelner unabhängiger Entwickler.
+Behind Sorting Thoughts is not a big company or investors, but a single independent developer. The developer used Sorting Thoughts himself for many years and developed it further. The sync service is also operated by the developer himself and is not outsourced to a third party.
 
-### Einrichten
+### Setup the sync service
 
-#### 1. Schritt: Zugang erstellen
-Um den Sync-Service nutzen zu können, wird zuerst ein Sync-Service Zugang benötigt. Den Zugang kann man mit einem Benutzernamen und Passwort in der Mobilen sowie in der Desktop Version erstellen.
+#### 1. Step: Create an account
 
-**Sync-Service in den Einstellungen der Desktop Version**
+To use the sync service, you first need a sync service account. The account can be created with a username and password in the mobile as well as in the desktop version.
+
+**Sync-Service settings of the desktop version**
 
 ![Sync-Service Desktop Version](./assets/images/sync-einstellungen.png)
 
-**Sync-Service in den Einstellungen der Mobilen Version**
+**Sync-Service settings of the mobilen version**
 
-![Sync-Service Mobile Version](./assets/images/st-ios-sync-service.png)
+![Sync-Service Mobile Version](./assets/images/SyncSettings_en.png)
 
-#### 2. Schritt: Abonnement auswählen
+#### 2. Step: Choose a sync service subscription
 
-Als nächstes wird noch ein Sync-Service Abonnement benötigt, welches bei Abschluss mit dem Sync-Service Zugang verknüpft wird. Folgende Abonnements stehen zur Auswahl:
+To use the sync service, you need a sync service subscription. The subscription is linked to the sync service account when it is created. The following subscriptions are available:
 
-| Abonnement | Leistung | Preis  |
-|:--------|:-------:|:-------:|
-| Monats-Abo | Sync Service und alle Funktionen der iOS App von Sorting Thoughts für **1 Monat**. Dieses Abo ist ideal zum ausprobieren aller Sync-Funktionen. | 1,99 EUR|
-| Jahres-Abo | Sync Service und alle Funktionen der iOS App von Sorting Thoughts für **1 Jahr**. Spare 37% gegenüber dem Monatsabo. | 14,99 EUR |
+| Subcription | Features | Price (depends on your Country)  |
+|:------|:------:|:------:|
+| 1-Month-Subscription | Sync Service and all features of the Sorting Thoughts mobile app for **1 month**. This subscription is ideal for trying out all sync features. | 1.99 EUR (Europe)|
+| 1-Year-Subcription | Sync Service and all features of the Sorting Thoughts mobile app for **1 year**. | 14.99 EUR (Europe) |
 
-*Das Abo wird nicht automatisch erneuert und endet nach einem Monat bzw. nach einem Jahr.*
+If you buy an auto renewing subscription over the iOS App Store you can try the sync service for 1 week for free. Customers who have already purchased the Sorting Thoughts desktop version and have an active sync service subscription can use all features of the iOS app for free.
 
-Ein Sync-Service Abonnement kann direkt aus der iOS Version von Sorting Thoughts heraus abgeschlossen werden oder über den Kauf eines Registrierungscodes auf der [Sorting Thoughts Homepage](https://www.sortingthoughts.de/blog/de/buy-sorting-thoughts/).
+You can subscribe to the sync service directly from the iOS version of Sorting Thoughts or by purchasing a registration code on the [Sorting Thoughts homepage](https://www.sortingthoughts.de/blog/en/buy-sorting-thoughts/).
 
-#### 3. Schritt: Weitere Geräte mit dem Zugang verbinden
 
-Der Sync-Service macht natürlich nur Sinn, wenn man Sorting Thoughts auf mehreren Geräten benutzt. Nach Schritt eins und zwei sollten nun weitere Geräte mit dem Sync-Service verknüpft werden.
+#### 3. Step: Add more devices to the sync service
 
-Technisch gesehen wird bei jeder Verknüpfung ein privater und öffentlicher Schlüssel erstellt, die für die Verschlüsselung der zu synchronisierenden Daten benötigt wird. Der private Schlüssel wird auf dem Gerät gespeichert und verlässt dieses Geräte nicht, d.h. nur das Gerät das über den privaten Schlüssel verfügt kann die empfangenden Sync Daten entschlüsseln. Der öffentliche Schlüssel wird an den Sync-Service gesendet damit andere Geräte Sync-Daten für das Geräte verschlüsseln können - dies wird  [Ende-zu-Ende Verschlüsselung](https://de.wikipedia.org/wiki/Ende-zu-Ende-Verschlüsselung) (E2EE) genannt.
+The sync service only makes sense if you use Sorting Thoughts on multiple devices. After step one and two, further devices should now be linked to the sync service.
 
-### Sync durchführen
+To do this, the sync service must be activated in the settings of the desktop version and/or the mobile version. The sync service is activated by entering the username and password of the sync service account.
 
-Über folgendes Symbol:
+Technically, with each connection, a private and public key is created that is needed to encrypt the data to be synchronized. The private key is stored on the device and does not leave it, i.e. only the device that has the private key can decrypt the received sync data. The public key is sent to the sync service so that other devices can encrypt sync data for the device - this is called end-to-end encryption (E2EE).
 
-![Sync Service Symbol](./assets/images/st-sync-icon.png)
+#### 4. Step: Configure the sync 
 
-wird der Sync eingeleitet. Nach dem tippen auf Sync-Symbol öffnet sich ein Dialog der es ermöglicht festzulegen welche Gedanken-Sammlungen mit welchem Gerät synchronisiert werden soll. In der Desktop Version werden in diesem Dialog nur Gedanken-Sammlungen angezeigt, die zuvor in den Einstellungen für den Sync aktiviert wurden.
+Now you can configure which thought collections should be synchronized with which devices. This is done in the settings of each installation. On the desktop version the settings will be displayed before you start the sync. On the mobile version you can configure the sync in the settings of the sync service.
 
-Wenn der Sync für eine Gedanken-Sammlungen deaktiviert wird und diese Gedanken-Sammlungen später wieder aktiviert wird, muss beachtet werden das alle Inhalte der Sammlung wieder erneut übertragen werden müssen. Nur wenn der Sync aktiv bleibt, werden ausschließlich die Änderungen übertragen.
+To synchronize a thought collection, the sync must be activated in the sync settings and you must choose the devices which should be synchronized with this thought collection.
 
-### Hinweise
+### Process the sync
 
-**Zugang löschen**
+After the sync has been configured, the sync can be started. The sync must be always started manually and will not processed in the background. You must also wait until the sync is finished. 
 
-Es ist jederzeit möglich seinen Zugang zu löschen, allerdings soll man beachtet dann auch die Information über das Abonnement gelöscht werden und das Abonnement damit vorzeitig beendet wird.
+If you have configured the sync on multiple devices, you should always start the sync on the device where you have made the most changes. This ensures that the sync is processed as quickly as possible.
 
+If the sync for a thought collection is deactivated and this thought collection is later reactivated, it must be noted that all contents of the collection must be transferred again. Only if the sync remains active, only the changes will be transferred.
+
+### Important information
+
+**Delete account**
+
+It is possible to delete your access at any time, but please note that the information about the subscription can be also deleted and the subscription will be terminated prematurely. **This will happen if you delete your access on all devices and you have an non-renewing subscription.** 
 
 **Support ID**
 
-Für Support-Anfrage bezüglich des Sync-Services bitte die persönliche Support-ID (zu finden unter Einstellungen / Sync-Service / Zugang) mit angeben. Ansonsten ist es nicht möglich das zugehörige Benutzerkonto im Sync-Service zu identifizieren.
+For support requests regarding the sync service, please also provide the personal support ID (to be found under Settings / Sync Service / Access on the desktop version). The mobile app users should use the internal support function to send the support ID. Without the support ID, it is not possible to identify the associated user account in the sync service.
 
-**Datenvolumen beim Sync**
+**Data volumn of the sync data**
 
-Durch die Ende-zu-Ende Verschlüsselung müssen die Sync-Daten für jedes Zielgerät extra übertragen werden. Bei einem Sync der z.B. an drei Geräte gesendet wird verdreifacht sich dementsprechend die Übertragungsmenge.
-
+The sync data is encrypted and therefore cannot be compressed. In addition, the sync data is encrypted separately for each device (because usage of end-to-end encryption), so that the sync data for each device must be transferred separately. For example, if a sync is sent to three devices, the amount of data to be transferred is tripled.
 
 ---------------
 
 <div class="pageNavigation">
 <div style="float:left;">
-   [◀️ Projekte / Aufgaben](./handbuch/projekte_und_aufgaben.md)
+   [◀️ Projects / Tasks](./handbuch/projekte_und_aufgaben.md)
 </div>
 <div style="float:right;">
   [FAQ ▶️](fragen_und_antworten.md)

@@ -53,7 +53,7 @@ __Inhalt__
 
 ### Installation Requirements
 
-* iOS 9 or better
+* iOS 15.6 or better
 * compatible with iPhone, iPad and iPod touch
 * Family sharing will be supported for in-app purchases
 * Languages: German, English
@@ -73,9 +73,9 @@ see [Version Compare](versionsvergleich.md)
 
 <div class="pageNavigation">
 <div style="float:left;">
-  [◀️ Schnelleinstieg](schnelleinstieg.md)
+  [◀️ Quick Start](schnelleinstieg.md)
 </div>
 <div style="float:right;">
-  [Benutzerhandbuch ▶️](benutzerhandbuch.md)
+  [User Guide ▶️](benutzerhandbuch.md)
 </div>
 </div>  

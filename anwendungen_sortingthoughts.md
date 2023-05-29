@@ -85,7 +85,7 @@ The usefulness of a note program shows up in everyday work, but also in life aft
 * **Import:** Make your thoughts more independent with the XML and CSV import.
 
 
-### Feature overview of the iOS version
+### Feature overview of the iOS and iPadOS version
 
 * Multiple thought collections
 * Tasks and projects

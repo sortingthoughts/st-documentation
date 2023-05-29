@@ -68,9 +68,9 @@ The app can be downloaded for free via the [App Store](https://itunes.apple.com/
 
 **Step 2: Create a thought collection**
 
-By means of the plus icon on the home screen you can create a thought collection. Like the desktop version you need a user name and password for the collection.
+By means of the plus icon on the home screen or with the create button on the welcome screen you can create a new thought collection. Like the desktop version you need a user name and password for the collection.
 
-![iOS create thought collection](/assets/images/ios-erste-schritte.png)
+![iOS create thought collection](/assets/images/WelcomeScreenAndCreateCollection_en.png)
 
 ---------------
 
@@ -80,14 +80,10 @@ By means of the plus icon on the home screen you can create a thought collection
 
 **Step 3: Create the first thought**
 
-After creating the collection, you can open it and you will be directly prompted to create a new thought. All other thoughts can be created with the following icon:
+After creating the collection, you can open it and create a new thought. To do this, tap the plus icon in the upper right corner. Further information is available in the [User's Guide](/handbuch/gedanken_verwalten_mobile.md).
 
-![create a new thought](/assets/images/ios-new-icon.png)
+![create a new thought](/assets/images/CreateNoteAnimation_en.gif)
 
-
-### Main controls of the iOS version
-
-![ST iOS main controls](/assets/images/ios-st-erklaert.png)
 
 
 ---------------

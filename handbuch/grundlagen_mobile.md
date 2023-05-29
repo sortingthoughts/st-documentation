@@ -11,85 +11,91 @@ title: "Grundlagen Mobile-Version"
 </div>
 </div>
 
-<div class="notTranslated">
-This page is not yet translated. Please use Google translate until the translation is complete:
-<div id="google_translate_element"></div>
-</div>
-
 ---------------
 __Inhalt__
 * TOC
 {:toc}
 ---------------
 
-## Grundlagen Mobile-Version
+## Basics Mobile-Version
 
-Die folgende Abbildung zeigt die Hauptelement von Sorting Thoughts für iOS:
+The following three screenshot shows the main elements of Sorting Thoughts for iOS. 
 
-![ST mobile erklärt](../assets/images/ios-st-erklaert.png)
+The first screenshot shows the home screen. Here you can create a new thought collection or open an existing one. Besides this you can also open the sync, settings, in-app store or the help page.
 
-Hier ist der Einfachheit halber die iPhone® Version abgebildet. In der iPad® Version sind einige Elemente anders platziert, ansonsten verhält sich die iPad® Version aber genauso.
+![ST collection view](../assets/images/Collections_en.png)
+
+The second screenshot shows the content of a thought collection. Here you can create new thoughts or open existing ones. You can also search for thoughts or filter them.
+
+![ST thought lits view](../assets/images/ThoughtListView_en.png)
+
+The third screenshot shows the content of a thought. Here you can edit the thought. You can also add attachments or view older versions of the thought.
+
+![ST thought view](../assets/images/ThoughtView_en.png)
+
+![thought view icons](../assets/images/ViewIcons_en.png)
+
+
+Here, for simplicity's sake, the iPhone® version is shown. In the iPad® version, some elements are placed differently, but otherwise the iPad® version behaves the same way.
+
+
 
 ---------------
 
-**Hinweis:** Um alle hier beschriebenen Funktionen benutzen zu können, benötigen Sie mindestens das **Max Pack** oder ein **Sync-Service Abo**.
+**Hint:** To use all functions described here, you need at least the **Max Pack** or a **Sync Service Subscription**.
 
 ---------------
 
-### Gedanke anlegen
+### Create a thought
 
-Über folgendes Symbol können Gedanken erstellt werden:
+To create a new thought use the following button on the thought list view:
 
-![Neuen Gedanken erstellen](../assets/images/ios-new-icon.png)
+![Plus icon to create a new thought](../assets/images/PlusIcon.png)
 
-Es können, wie auch in der Desktop Version, vier unterschiedliche Gedanken Typen erstellt werden:
+You can create four different types of thoughts, just like in the desktop version:
 
-* Einfache Gedanken
-* Projekte
-* Aufgaben
-* Ereignisse
+* standard thought
+* project
+* task
+* event
 
-![Gedanken Typauswahl](../assets/images/st-ios-neuer-gedanke.png)
+You can easily switch between the different types of thoughts by using the tabs at the top of the screen.
 
-### Gedanke bearbeiten
+![Thought editing](../assets/images/EditThought_en.png)
 
-Gedanken haben einen Ansichts- und Bearbeitungsmodus. Um in den Bearbeitungsmodus zu wechseln, einfach auf den Gedankennamen oder Gedankeninhalt drücken. Wenn der Inhalt bearbeitet wird, wird der Title des Gedanken auf dem iPhone® ausgeblendet. Gespeichert wird der Gedanke immer automatisch, wenn die Tastatur wieder ausgeblendet wird. Metadaten von Projekten, Aufgaben und Ereignisse können über den **Dreipunkte-Aktionsknopf**  :
+### Edit a thought
 
-![Dreipunkte-Aktionsknopf](../assets/images/st-ios-dreipunkte.png)
+Thoughts have a view and edit mode. To switch to edit mode, simply press the thought content or press the edit button. In edit mode, the thought can be edited. Special types of thoughts have additional fields that can be edited. To exit edit mode, simply press the done button. 
 
-rechts unten (iPhone®) bzw. rechts oben (iPad®) bearbeitet werden. Über den **Dreipunkte-Aktionsknopf** können noch einige weitere wichtige Funktionen für den aktuellen Gedanken erreicht werden.
+In the thought list view you can reach more editing functions by using a force touch gesture on the thought. This will open a context menu with the following functions:
 
-![Weitere Funktionen](../assets/images/st-ios-weitereFunktionen.png)
+![More functions Funktionen](../assets/images/ThoughtContext_en.png)
 
-### Gedanke drucken oder per Mail versenden
+### Print a thought or send it by email
 
-Über den Dreipunkte-Aktionsknopf erreicht man die Teilen Funktion und kann dann den Gedanken drucken bzw. per Email versenden.
+The thought context menu also contains the print and share function. The print function prints the thought. The share function opens the iOS share dialog and allows you to send the thought by email or to other apps.
 
-### Gedanke löschen
+### Delete a thought
 
-Gedanken können direkt aus der Gedankenliste heraus über die nach links wischen Geste gelöscht werden oder über die Löschen Funktion aus der Dreipunkte-Funktionsauswahl. Gelöschte Gedanken werden zunächst in einen Papierkorb verschoben und können noch einmal wiederhergestellt werden. Der Papierkorb erscheint in der Gedankenliste und ist über das Mülltonnen Symbol erreichbar. Durch längeres Drücken auf den Title eines gelöschten Gedanken in der Gedankenliste kann dieser wiederhergestellt werden. Der Papierkorb kann über das X Symbol komplett geleert werden.
+The thought context menu also contains the delete function. This will move the thought to the trash. The trash can be emptied by using the trash icon in the thought list view. Every thought in the trash can be restored by using the restore function in the thought view
 
-![Papierkorb](../assets/images/st-ios-papierkorb.png)
 
-### Gedanke mit einer Farbe markieren
+### Mark a thought with a color
 
-Gedanken können mit einer Farbe markiert werden, damit wird der Title in der Gedankenliste hervorhoben. Wie auch in der Desktop-Version können die Farbnamen geändert werden, dazu einfach länger auf die Farbzeile drücken und den Namen ändern:
+A thought can be marked with a color by the thought context menu. This will highlight the thought in the thought list. Just like in the desktop version, the color names can be changed. To do this, simply force touch the color line and change the name.
 
-![Farbe auswählen](../assets/images/st-ios-farben.png)
+![Color marker](../assets/images/EditColorMarker_en.png)
 
-### Gedanke umbenennen
 
-Um den Namen umzubenennen, muss dieser einfach per Berührung ausgewählt werden. Nach dem Schliessen der Tastatur wird der Name gespeichert.
+### Attach files to a thought
 
-### Dateien anhängen
+It is possible to attach photos to a thought. To do this, press the **Attachments** button and then select an existing photo from the gallery via the plus symbol. A description of the attachment can be assigned via long press.
 
-Es ist möglich Fotos an einen Gedanken anzuhängen. Dazu muss über den Dreipunkte-Funktionsknopf die Funktion **Anhänge** ausgewählt werden und dann über das Plussymbol ein bestehendes Foto aus der Galerie ausgewählt werden. Eine Beschreibung zum Anhang kann über langes gedrückt halten vergeben werden.
+![Add attachments](../assets/images/Attachments_en.png)
 
-![Anhang auswählen](../assets/images/st-ios-anhaenge.png)
+It is important that Sorting Thoughts has permission to read photos from the gallery. If you have denied permission, no photos can be selected. To grant permission retroactively, you must grant the right to Sorting Thoughts in the iOS settings under Privacy:
 
-Wichtig ist das Sorting Thoughts die Erlaubnis hat Fotos aus der Galerie lesen zu dürfen. Falls Sie die Erlaubnis verweigert haben, können keine Fotos ausgewählt werden. Um die Erlaubnis nachträglich zuerteilen, muss man in den iOS Einstellungen unter Datenschutz Sorting Thoughts das Recht erteilen:
-
-![Datenschutz](../assets/images/st-ios-datenschutz.png)
+![Privacy](../assets/images/PrivacySettings_en.png)
 
 ---------------
 

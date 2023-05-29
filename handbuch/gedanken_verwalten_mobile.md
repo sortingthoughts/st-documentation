@@ -11,89 +11,90 @@ title: "Manage thoughts - mobile version"
 </div>
 </div>
 
-<div class="notTranslated">
-This page is not yet translated. Please use Google translate until the translation is complete:
-<div id="google_translate_element"></div>
-</div>
-
 ---------------
 __Inhalt__
 * TOC
 {:toc}
 ---------------
 
-## Gedanken verwalten in der Mobile Version
+## Manage thoughts with the mobile version
 
-### Strukturieren
+### Structuring thoughts
 
-In der mobilen Version von Sorting Thoughts wird der Gedanken-Baum geteilt angezeigt, d.h. alle Top- bzw. Elterngedanken werden in Gedanken-Liste angezeigt und alle zugehörigen Sub- bzw. Kinder-Gedanken werden separat auf einer extra Ansicht aufgelistet. Die Gedanken-Liste zeigt die Anzahl der Sub-Gedanken jedes Top-Gedanken mit an:
+The thought context menu allows you to structure your thoughts. Use the **Add sub thought** fuction to create a sub thought. The sub thought will be displayed as a child thought of the selected thought. The following screenshot shows the thought context menu:
 
-![Gedanken-Liste](../assets/images/st-ios-gedankenliste.png)
+![Thought list](../assets/images/ThoughtContext_en.png)
 
-Im folgenden sieht man alle Sub-Gedanken von "Meine Projekte":
+The number of children of a thought is displayed in the thought list. The following screenshot shows the thought list with multiple sub thought:
 
-![Sub-Gedanken](../assets/images/st-ios-untergedanken-1.png)
+![Thought list](../assets/images/ThoughtTree_en.png)
 
-In dieser Ansicht lässt sich auch ein neuer Top-Gedanken zuweisen womit der Gedanke "Meine Projekt" dann ein Sub-Gedanken würde. Außerdem kann in der Sub-Gedanken Ansicht navigiert werden und die Sub-Gedanken von Sub-Gedanken aufrufen. In der folgenden Ansicht sieht man die Sub-Gedanken von dem "Weltreise 2011" Gedanken:
+You can also move a thought to another parent thought. To do this, open the thought context menu of the thought you want to move and then select the **Move thought** function. The following screenshot shows the move thought view:
 
-![Sub-Gedanken Ebene tiefer](../assets/images/st-ios-untergedanken.png)
+![Sub-Gedanken Ebene tiefer](../assets/images/MoveThought_en.png)
 
-### Sortieren
+### Sorting thoughts
 
-In der Gedanken-Liste kann man über folgendes Symbol die Sortierung der List ändern:
+To sort the thought list, tap on the following icon:
 
-![Sortiersymbol](../assets/images/st-ios-sortiersymbol.png)
+![sort icon](../assets/images/SortIcon.png)
 
-Damit lässt sich die Gedanken-Liste nach:
+You can sort the thought list by the following criteria:
 
-* Name
-* Erstelldatum
-* Änderungsdatum
-* Ansichtsdatum
-* Farbe
+* title
+* creation data
+* modification date
+* view date
+* color
 
-sortieren.
+The following screenshot shows the sort criteria view:
 
-![Sortierung](../assets/images/st-ios-sortieren.png)
+![Sortierung](../assets/images/SortThoughts_en.png)
 
-### Filtern
+### Filter thoughts
 
-Die Gedanken-Liste kann auch gefiltert werden, dazu einfach auf folgendes Symbol tippen:
+The thought list can also be filtered, simply tap on the following icon:
 
-![Filtersymbol](../assets/images/st-ios-filtersymbol.png)
+![filter icon](../assets/images/FilterIcon.png)
 
-Damit stehen folgende Filter zur Verfügung:
+If a filter is active, the filter icon is highlighted.
 
-* Alle Gedanken-Liste
-* Nächste Aufgaben (zeigt alle nicht abgeschlossen Aufgaben, dringende zu erst)
-* Aufgaben
-* Projekte
-* Ereignisse
+You can filter the thought list by the following criteria:
 
-![Filtern](../assets/images/st-ios-filtern.png)
+* all thoughts (default)
+* projects
+* tasks
+* next tasks (displays all uncompleted tasks, urgent ones first)
+* events
 
-### Metadaten
+Sub thoughts are also displayed in the filtered view. The following screenshot shows the filter criteria view:
 
-Über den Dreipunkte-Aktionsknopf und "Informationen" lassen sich Metadaten zu dem ausgewählten Gedanken anzeigen:
+![filter thoughts](../assets/images/FilterThoughts_en.png)
 
-![Metadaten](../assets/images/st-ios-metadaten.png)
+### Information about a thought
 
-### Stichwörter
+The context menu of a thought contains the **Information** function. This function displays the following information about the thought:
 
-Jeder Gedanken kann beliebig viele Stichwörter erhalten, um das Auffinden zu erleichtern. Stichwörter lassen sich über den Dreipunkte-Aktionsknopf und "Stichwörter" vergeben. Existierende Stichwörter der Gedanken-Sammlung werden in der Stichwörteransicht aufgelistet und können einfach ausgewählt werden. Über das obere Eingabefeld und das Plussymbol lassen sich neue Stichwörter vergeben:
+![Metadaten](../assets/images/ThoughtInformation_en.png)
 
-![Stichwörter vergeben](../assets/images/st-ios-stichwoerter-2.png)
+### Tags
 
-Die Gedanken-Liste zeigt alle Stichwörter und ihre verknüpften Gedanken an:
+Every thought can be assigned any number of tags to make it easier to find. Tags can be assigned to a thought via the context menu and **Tags**. New tags can be assigned via the upper input field and the plus symbol. Existing tags can be removed by tapping on the tag. The following screenshot shows the edit tag view:
 
-![Stichwörter Verknüpfungen](../assets/images/st-ios-stichwoerter-1.png)
+![add or remove tags](../assets/images/TagThought_en.png)
 
-Die Auflistung der Stichwörter lässt sich ebenfalls sortieren nach:
+Existing tags of the thought collection are listed in the tag view and can be easily selected. The thought list shows all tags and their linked thoughts:
 
-* Name
-* Anzahl der Verwendung
+![tags with linked thoughts](../assets/images/TagList_en.png)
 
-![Stichwortsortierung](../assets/images/st-ios-stichwoerter-sortieren.png)
+It is also possible to sort the tag list by the following criteria:
+
+* name
+* usage resp. the number of linked thoughts
+
+The following screenshot shows the sort criteria view:
+
+![sort tags](../assets/images/SortTags_en.png)
 
 ---------------
 
