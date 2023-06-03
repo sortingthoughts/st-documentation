@@ -11,149 +11,145 @@ title: "Manage thoughts - desktop version"
 </div>
 </div>
 
-<div class="notTranslated">
-This page is not yet translated. Please use Google translate until the translation is complete:
-<div id="google_translate_element"></div>
-</div>
-
 ---------------
 __Inhalt__
 * TOC
 {:toc}
 ---------------
 
-## Gedanken verwalten in der Desktop Version
+## Manage thoughts in the desktop version
 
-### Strukturieren
+### Structuring thoughts
 
-Der Gedanken-Baum von Sorting Thoughts ermöglicht es Gedanken strukturiert abzulegen. So ist es möglich Sub-Gedanken anzulegen, um eine Beziehungen zum Eltern-Gedanken herzustellen. Dies ist z.B. sinnvoll, um Aufgaben einem Projekt zuzuordnen, wie die folgende Abbildung zeigt:
+The Sorting Thoughts thought tree allows you to store thoughts in a structured way. In this way it is possible to create sub-thoughts in order to create a relationship with the parent-thought. This is useful, for example, to assign tasks to a project, as shown in the following figure:
 
-![Gedanken Struktur](../assets/images/gedanken-struktur.png)
+![thought structure](../assets/images/gedanken-struktur.png)
 
-Der Gedanken-Baum ist zudem sehr flexibel und erlaubt es Gedanken frei zu verschieben, umso jederzeit Ein- bzw. Umordnungen vornehmen zu können. Siehe dazu auch [Gedanke verschieben](https://sortingthoughts.github.io/st-dokumentation/handbuch/grundlagen_desktop.html#gedanke-verschieben).
+The thought tree is also very flexible and allows you to move thoughts freely, so that you can classify or rearrange them at any time. See also [Move a thought](https://sortingthoughts.github.io/st-documentation/handbuch/grundlagen_desktop.html#gedanke-verschieben).
 
-### Sortieren
+### Sorting thoughts
 
-Die Einträge im Gedanken-Baum können nach folgenden Kriterien sortiert werden:
+The entries in the thought tree can be sorted according to the following criteria:
 
-* Nach Name (A bis Z)
-* Nach Erstelldatum (jüngster Gedanke ist oben)
-* Nach Änderungsdatum (zuletzt geänderter Gedanke ist oben)
-* Nach Ansichtsdatum (zuletzt betrachteter Gedanke ist oben)
-* Nach Farbe
-* Eigene Sortierung (Gedanken haben die selbstgewählte Position)
+* By name (A to Z)
+* By creation date (latest thought is at the top)
+* By modification date (most recently modified thought is at the top)
+* By view date (most recently viewed thought is at the top)
+* By color
+* Custom sorting (thoughts have a self-selected position)
 
-Die Sortierung gilt immer für eine Ebene im Baum, d.h. Sub-Gedanken werden losgelöst von den darüber liegenden Gedanken sortiert also nur in ihrem Zweig bzw. Ebene.
+The sorting order always applies to one level in the tree, i.e. sub-thoughts are sorted separately from the thoughts above them.
 
-![Sortierung](../assets/images/sortierung.png)
+![sorting](../assets/images/sortierung.png)
 
-### Verlinken
+### Link thoughts
 
-Gedanken können innerhalb des Editors beliebig mit anderen Gedanken und Internetseite verlinkt werden.
+Thoughts can be linked to any other thoughts and website within the editor.
 
-#### Verweise erstellen
+#### Create a link
 
-**Interne Verweise erstellen**
+**Internal links**
 
-Verweise zwischen Gedanken können einfach per Tastenkombination angelegt werden. Dazu die Anfangsbuchstaben eines Gedanken in den Editor tippen und anschließend Strg + Leertaste bzw. unter Mac OS X Control + Leertaste drücken und den Gedanken für den Verweis auswählen. Ein Verweis kann auch über den Verweisdialog angelegt werden
+Links between thoughts can be easily created with a key combination. To do this, type the first letters of a thought into the editor and then press Ctrl + Spacebar or under Mac OS X Control + Spacebar and select the thought for the reference. A link can also be created via the link dialog.
 
-**Externe Verweise erstellen**
+**External links**
 
-Um auf eine Webseite zu verweisen, reicht es die jeweilige URL in den Editor einzugeben. Falls ein anderer Verweisname verwendet werden soll, kann der Verweis auch über den Verweisdialog angelegt werde.
+To refer to a website, it is sufficient to enter the respective URL in the editor. If a different link name is to be used, the link can also be created via the link dialog.
 
-#### Verweise aufrufen
-Jeder Verweise kann durch halten der Strg Taste bzw. der Command Taste (Mac OS X) und anschließendes anklicken aufgerufen werden.
+#### Follow a link
 
-#### Ankommenden und abgehenden Verweisen
-Es gibt zwei unterschiedliche Sichtweisen auf Verweise. Die nachfolgende Abbildung verdeutlicht dies. Gedanke A verweist auf B. Der Verweis ist aus Sicht von Gedanke A abgehend und aus Sicht von B ankommend.
+Each link can be accessed by holding down the Ctrl key or the Command key (macOS) and then clicking on it.
 
-![Verweise](../assets/images/verweise.png)
+#### Incoming and outgoing referrals
 
-Allen ankommenden und abgehenden Verweise eines Gedanken sind zusammenfassend auf dem Karteireiter "Verweise" dargestellt. Durch Doppelklick können Verweise dort aufgerufen werden.
+There are two different perspectives on references. The figure below illustrates this. Thought A refers to B. The reference is outgoing from Thought A's perspective and incoming from B's perspective.
 
-![Verweisübersicht](../assets/images/verweise-uebersicht.png)
+![reference perspective](../assets/images/verweise.png)
 
-### Suchen und Filtern
+All incoming and outgoing references of a thought are summarized on the **Links** tab. Links can be called up there by double-clicking.
 
-#### Textsuche
+![link overview](../assets/images/verweise-uebersicht.png)
 
-Die Sucheingabe über dem Gedanken-Baum ermöglicht das schnelle Auffinden von Gedanken. Einfach das Suchwort eintippen und die Entertaste drücken. Im Gedanken-Baum werden dann alle Suchtreffer sichtbar. Die Suche berücksichtigt sowohl den Gedankennamen als auch den Inhalt des Gedanken. Durch Löschen des Suchwortes in der Sucheingabe werden wieder alle Gedanken sichtbar.
-Durch die Verwendung von folgenden Suchoptionen kann die Suche sehr flexibel gestaltet werden:
+### Search and filter
 
-| Suchoption | Beschreibung | Beispiel |
+#### Text search
+
+The search input above the thought tree allows you to find thoughts quickly. Simply type in the search term and press the enter key. All search hits are then visible in the thought tree. The search takes into account both the thought name and the content of the thought. By deleting the search word in the search entry, all thoughts become visible again. The search can be made very flexible by using the following search options:
+
+| Search option | Description | Example |
 |:--------|:-------:|:-------:|
-| Platzhalter oder so genannte Wildcards | Um einen Platzhalter für ein einzelnes Zeichen anzugeben, wird ein "?" benutzt. Um ein Platzhalter für mehrere Zeichen anzugeben, wird ein "*" benutzt. <br> <br>Hinweis: Beide Platzhalter können sowohl innerhalb, als auch am Ende des Suchwortes stehen, jedoch nicht am Anfang.| **te?t** <br>würde nach allen Wörtern wie "test" oder "text" suchen.<br><br> **test*** <br>würde nach allen Wörtern wie "test" oder "tester" suchen. |
-| Wortgruppen | Wortgruppen können durch das Umschliessen von Anführungszeichen gesucht werden. | **"test text"** <br> sucht nur nach Einträgen, die als Gruppe die Wörter "test" und "text" enthalten. |
-| logische Verknüpfungen | Logische Verknüpfungen können mit Hilfe der Operatoren AND und OR vorgenommen werden. Die OR Verknüpfung wird standardmäßig vorgenommen, man muss sie nicht explizit schreiben. <br><br> Es ist auch möglich durch den NOT Operator Suchwörter auszuschliessen. | **test AND text** <br> sucht alle Einträge, die sowohl das Wort "test" und "text" enthalten. <br><br> **test OR text** bzw. **test text** <br>sucht alle Einträge, die "test" oder "text" enthalten. <br><br> **test NOT text** <br> sucht nur nach Einträgen, die "test" enthalten, aber nicht das Wort "text" |
-| Felder | Um nur in Gedankennamen zu suchen, kann man das Präfix "THOUGHT_TITLE:" vor das Suchwort stellen. | **THOUGHT_TITLE:test** <br> sucht nur nach Einträgen, die das Wort "test" im Namen enthalten. |
+| Wildcards | To specify a wildcard for a single character, use "?". To specify a wildcard for multiple characters, use "*". <br> <br>Note: Both wildcards can be used within or at the end of the search term, but not at the beginning. | **te?t** <br>would search for all words like "test" or "text".<br><br> **test*** <br>would search for all words like "test" or "tester". |
+| Word groups | Word groups can be searched by enclosing them in quotation marks. | **"test text"** <br> searches only for entries that contain the words "test" and "text" as a group. |
+| Logical operators | Logical operators can be used with the AND and OR operators. The OR operator is used by default, so it does not need to be explicitly written. <br><br> It is also possible to exclude search terms using the NOT operator. | **test AND text** <br> searches for all entries that contain both the word "test" and "text". <br><br> **test OR text** or **test text** <br> searches for all entries that contain "test" or "text". <br><br> **test NOT text** <br> searches only for entries that contain "test", but not the word "text". |
+| Fields | To search only in thought names, you can prefix the search term with "THOUGHT_TITLE:". | **THOUGHT_TITLE:test** <br> searches only for entries that contain the word "test" in the name. |
 
 ![Gedanken suchen](../assets/images/gedanken-suchen.png)
 
 #### Filter
 
-Neben der Suche gibt es auch Filterfunktionen mit denen es möglich ist, einen schnellen Überblick über bestimmt Gedanken-Typen zu erhalten. Die Filter sind per Rechtsklick auf das Sucheingabefeld erreichbar. Wie das nachfolgenden Bildschirmfoto zeigt gibt es folgende Filter:
+In addition to the search, there are also filter functions with which it is possible to get a quick overview of certain thought types. The filters can be accessed by right-clicking on the search input field. As the following screenshot shows, the following filters are available:
 
-| Filter | Suchwort für Schnellzugriff * |
+| Filter | Search term for quick access * |
 |:--------|:-------:|
-| Nächste Aufgaben - zeigt alle fälligen Aufgaben, sortiert nach Priorität und Ende-Datum	| mnA |
-| Aufgaben (Büro, Privat, Sonstige, Alle)	| mbA, mpA, msA, mA |
-| Projekte (Büro, Privat, Sonstige, Alle)	| mbP, mpP, msP, mP |
-| Ereignisse	| mE |
+| Next tasks - shows all due tasks, sorted by priority and end date | mnT |
+| Tasks (Office, Private, Other, All) | moT, mpT, mmT, mT |
+| Projects (Office, Private, Other, All) | moP, mpP, mmP, mP |
+| Events | mE |
 
-\*) das Suchwort mnA steht zum Bsp. für "**m**eine **n**ächsten **A**ufgaben" und mbP für "**m**eine **b**üro **P**rojekte"
+\*) the search term **mnT** stands, for example, for “**m**y **n**ext **t**asks ” and **moP** for “**m**y **o**ffice **p**rojects ”
 
 ![Suchfilter](../assets/images/such-filter.png)
 
-Wie bei der Suche, sind die übergeordneten Gedanken Teil der Ergebnismenge, um den Gedanken-Kontext zu erhalten.
+As with search, parent thoughts are part of the result set to preserve thought context.
 
-### Metadaten
+### Metadata
 
-Jeder Gedanke verfügt über so genannte Metadaten, die weitere Information über den Gedanken bereitstellen. So ist z.B. über den Info Karteireiter ersichtlich wie alt ein Gedanke ist, wann er das letzte mal geändert wurde oder wie viele Wörter er enthält. Projekte und Aufgaben haben zusätzlich noch weitere Metadaten, die u.a. Informationen über die Statusänderungen beinhalten - siehe auch Spezielle Gedanken.
+Every thought has something called metadata that provides more information about the thought. For example, the **Info** tab shows how old a thought is, when it was last changed, or how many words it contains. Projects and tasks also have additional metadata, which include information about status changes - see also Special Thoughts.
 
-Metadaten:
-* Erstelldatum
-* Alter des Gedanken
-* Datum der letzten Änderung
-* Datum der letzten Ansicht
-* Datum der letzten Synchronisierung (siehe auch HP webOS und Android Sync)
-* Anzahl der ausgehenden und ankommenden Verweise
-* Anzahl der Stichwörter
-* Anzahl der Sub-Gedanken
-* Wortzahl
+Metadata:
+* Creation date
+* Age of the thought
+* Date of last modification
+* Date of last view
+* Date of last synchronization
+* Number of incoming and outgoing references
+* Number of tags
+* Number of sub-thoughts
+* Word count
 
-![Metadaten](../assets/images/metadaten.png)
+![Metadata](../assets/images/metadaten.png)
 
 
-### Stichwörter
+### Tags
 
-#### Stichwörter vergeben
+#### Assign tags
 
-Falls die starre hierarchische Baumstruktur für Gedanken nicht ausreicht, um Gedanken zu ordnen, ist es zusätzlich möglich Gedanken mit Stichwörtern bzw. Tags zu versehen. Einem Stichwort können beliebig viele Gedanken zu geordnet werden und ein Gedanke kann auch beliebig viele Stichwörter haben.
-Um ein Gedanken mit Stichwörtern zu versehen, muss der Stichwörter Dialog aus dem gleichnamigen Bereich geöffnet werden. Dort kann man Stichwörter frei definieren oder bestehende Stichwörter auswählen Mehrere Stichwörter sind einfach durch Komma zu trennen.
+If the rigid hierarchical tree structure for thoughts is not sufficient to organize thoughts, it is also possible to add tags to thoughts. Any number of thoughts can be assigned to a tag and a thought can also have any number of tag. In order to provide a thought with tags, the **Tags** dialog must be opened from the area of ​​the same name. There you can freely define tags or select existing tags. Multiple tags are simply separated by a comma.
 
-![Stichwörter vergeben](../assets/images/stichwoerter-vergeben.png)
+![assign tags](../assets/images/stichwoerter-vergeben.png)
 
-Übrigens falls ein Stichwort nicht mehr benutzt wird, verschwindet es aus der Stichwortliste.
+By the way, if a tag is no longer used, it disappears from the tag list.
 
-#### Navigation per Stichwort
+#### Navigation by tag
 
-Alle Stichwörter werden in einer extra Stichwörter-Ansicht aufgelistet und lassen sich dort nach Verwendung und Namen sortieren. So ist es möglich einen schnellen Überblick über alle Stichwörter zu bekommen und Gedanken aus dieser Ansicht heraus zu öffnen.
-Aus dem Stichwörter-Bereich unterhalb eines Gedanken kann ebenfalls direkt zur Stichwörter-Ansicht gesprungen werden. Dazu einfach auf das jeweilige Stichwort doppelklicken. So kann man schnell alle anderen Gedanken sehen, die auch dieses Stichwort besitzen.
+All tags are listed in an extra tag view and can be sorted there by use and name. It is possible to get a quick overview of all tags and to open thoughts from this view. You can also jump directly to the tag view from the tag area below a thought. Simply double-click on the respective tag. So you can quickly see all other thoughts that also have this tag.
 
-![Stichwörter navigation](../assets/images/stichwoerter-navigation.png)
+![tag navigation](../assets/images/stichwoerter-navigation.png)
 
-#### Anwendung für Projekte und Aufgaben
+#### Use tags for projects and tasks
 
 Stichwörter sind besonders nützlich für Projekte und Aufgaben, da so weitere Ordnungskriterien sehr leicht hinzugefügt und gepflegt werden können. Ein Projekt oder eine Aufgabe kann z.B. an einem bestimmten Ort oder für einen bestimmten Kunden oder zu einer bestimmten Zeit stattfinden. Folgenden Stichwörtern können so beispielsweise für mehr Übersicht sorgen:
 
-| Ordnungskriterium | Stichwort Beispiele |
+Tags are particularly useful for projects and tasks, as they make it very easy to add and maintain further classification criteria. For example, a project or task may take place at a specific location, for a specific client, or at a specific time. The following keywords, for example, can provide a better overview:
+
+| Sorting criterion | Tag examples |
 |:--------|:-------:|
-| Ort	|  @Berlin, @Dubai |
-| Person| KundeMaier, Max Mustermann|
-| Zeit	| 0-Täglich, 1-Jetzt, 2-Nächstes, 3-Bald, 4-Später, 5-Irgendwann, 6-Aufgeschoben|
-| Was	|  Aktives Projekt, Inaktives Projekt, Idee, Forschungsprojekt|
-| Bewertung	| Erfolgreiches Projekt, Desaster Projekt|
-| Kontext	| Produktname, Technologiename, Überprojekt, Budget |
+| Location |  @Berlin, @Dubai |
+| Person | customerMiller, Max Miller|
+| Time | 0-Daily, 1-Now, 2-Next, 3-Soon, 4-Later, 5-Someday, 6-Postponed|
+| What | Active project, Inactive project, Idea, Research project|
+| Evaluation | Successful project, Disaster project|
+| Context | Product name, Technology name, Superordinate project, Budget |
 
 
 ---------------

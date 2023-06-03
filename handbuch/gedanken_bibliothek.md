@@ -11,70 +11,65 @@ title: "Thought Library"
 </div>
 </div>  
 
-<div class="notTranslated">
-This page is not yet translated. Please use Google translate until the translation is complete:
-<div id="google_translate_element"></div>
-</div>    
-
 ---------------
 __Inhalt__
 * TOC
 {:toc}
 ---------------
 
-## Gedanken-Bibliothek und Gedanken-Sammlung
+## Thought library and collection
 
-Alle Gedanken, die man mit Sorting Thoughts erfassen kann, werden in einer Gedanken-Sammlung abgelegt. Eine Gedanken-Sammlung wird wiederum in einer Gedanken-Bibliothek abgelegt. Technisch gesehen ist eine Gedanken-Bibliothek eine verschlüsselte Datenbank auf die man nur Zugriff erhält, wenn man die korrekten Anmeldedaten hat. In der mobilen Version von Sorting Thoughts für iOS wird die Gedanken-Bibliothek automatisch erstellt und ist mit den Standard Sicherheitsfunktion der Datensicherheitsklassen "Vollständiger Schutz" von iOS verschlüsselt, siehe auch: [iOS Sicherheit (PDF)](https://images.apple.com/de/business/docs/iOS_Security_Guide.pdf)
+All thoughts that can be captured with Sorting Thoughts are stored in a thought collection. A collection of thoughts is in turn stored in a library of thoughts. Technically, a thought library is an encrypted database that can only be accessed if you have the correct credentials. In the mobile version of Sorting Thoughts for iOS, the thought library is automatically created and encrypted with the standard security features of the data security classes “Full Protection” of iOS, see also:  [iOS security (PDF)](https://images.apple.com/de/business/docs/iOS_Security_Guide.pdf)
 
-![ST Gedanken-Bibliothek](../assets/images/ST-Doku-Diagramme.001.png)
+![ST thought library](../assets/images/ST-Doku-Diagramme.001.png)
 
+### Create a thought collection
 
-### Gedanken-Bibliothek erstellen
-
-Nach dem ersten Start der Desktop Version erscheint die Aufforderung einen Gedanken-Bibliothek und Gedanken-Sammlung anzulegen. Dazu muss man ein Verzeichnis angeben, wo die Gedanken-Bibliothek gespeichert werden soll. Außerdem muss man der Gedanken-Sammlung einen Namen geben und ein Benutzername und Passwort wählen. Die Anmeldedaten sind sehr wichtig, da nur damit der Zugriff erfolgen kann. Sollten die Anmeldedaten einmal vergessen werden, kann niemand mehr auf die Daten zugreifen.  
-
------
-
-**ACHTUNG:**
-Anmeldedaten bitte merken! Es gibt keine Passwort-Erinnerungsfunktion - nur Sie kennen das Passwort!
+After starting the desktop version for the first time, you will be prompted to create a thought library and thought collection. To do this, you have to specify a directory where the thought library should be saved. You also have to give the thought collection a name and choose a username and password. The login data is very important, as this is the only way to gain access. If the login data is forgotten, nobody can access the data anymore.
 
 -----
 
-![Erster Schritt](../assets/images/start-erster-schritt.png)
+**ATTENTION:** 
+Please remember your login data! There is no password reminder function - only you know the password!
 
-![Neue Bibliothek](../assets/images/start-neue-bibliothek.png)
+-----
 
-![Neue Sammlung](../assets/images/start-neue-sammlung.png)
+![first step](../assets/images/start-erster-schritt.png)
 
-### Gedanken-Sammlung verwalten
+![new library](../assets/images/start-neue-bibliothek.png)
+
+![new collection](../assets/images/start-neue-sammlung.png)
+
+### Manage thought collections
 
 Über den Menüpunkt **Sammlungen**:
+Via the **Collections** menu item :
 
-![Gedanken-Sammlung Menü](../assets/images/gedanken-sammlung-menu.png)
+![collections menu items](../assets/images/gedanken-sammlung-menu.png)
 
-kann man weitere Informationen über die aktuelle Sammlung abrufen:
+you can get more information about the current collection:
 
-![Details über die Sammlung](../assets/images/gedanken-sammlung-info.png)
+![collections details](../assets/images/gedanken-sammlung-info.png)
 
-oder die Sammlung wechseln bzw. sperren, damit wieder eine Passwortabfrage beim nächsten Öffnen erforderlich wird.
+or change or lock the collection so that a password prompt is required the next time you open it.
 
-![Gedanken-Sammlung verwalten](../assets/images/gedanken-sammlung-verwalten.png)
+![manage collections](../assets/images/gedanken-sammlung-verwalten.png)
 
-In den Einstellungen für die Gedanken-Sammlungen lassen sich weitere Sammlungen erstellen, Sammlungen löschen oder sperren. Außerdem kann man hier die Sammlung für den Sync Service aktivieren.
-
-
-### Import alter Gedanken-Sammlungen vor Version 2.0
-
-Um Gedanken-Sammlungen vor Version 2.0 von Sorting Thoughts zu importieren, muss in den Einstellungen für die Gedanken-Sammlungen die Funktion "Vorgänger Import (v1.x)" genutzt werden. Nach Auswahl der  *.h2.db Datei der alten Sammlung und Eingabe von Benutzername sowie Passwort wird der Import durchgeführt und die Sammlung erscheint danach in der Sammlungsauflistung.
+In the settings for the thought collections, more collections can be created, collections deleted or locked. You can also activate the collection for the Sync Service here.
 
 
-### Automatische Anmeldung ohne Passwort
+### Import old thought collections before version 2.0
 
-Jede Gedanken Sammlung wird wie oben beschrieben mit einem Passwortschutz versehen. Es ist jedoch möglich die Gedanken-Sammlung ohne Passworteingabe zu öffnen, wenn man diese nicht gesperrt hat. In diesem Fall wird beim Start nur das Passwort der Gedanken-Bibliothek abgefragt. Möchte man auch diese Passwortabfrage nicht, kann man die Automatische Anmeldung in den Einstellungen für die Gedanken-Sammlungen aktiviert. Dies ist nur zu empfehlen, wenn man in den Computer alleine nutzt bzw. keine schützenswerten Gedanken speichert.
+In order to import thought collections prior to version 2.0 of Sorting Thoughts, the function **Legacy import (v1.x)** must be used in the settings for the thought collections. After selecting the *.h2.db file of the old collection and entering the user name and password, the import is carried out and the collection then appears in the collection list.
 
-### Automatisches Backup erstellen
 
-Die Desktop Version verfügt über eine automatische Backupfunktion, die die gesamte Gedanken-Bibliothek bzw. die Datenbank nach dem Beenden als ZIP Datei zusammenpackt und speichert. Es lässt sich außerdem einstellen wieviele Backup-Dateien bis zum nächsten Überschreiben bestehen bleiben sollen - maximal sind 10 Sicherungszyklen möglich.
+### Automatic login without password
+
+Each collection of thoughts is password protected as described above. However, it is possible to open the Thought Collection without entering a password if you have not locked it. In this case, only the password of the thought library is requested at startup. If you do not want this password prompt either, you can activate automatic login in the settings for the thought collections. This is only recommended if you use the computer alone or if you do not save any thoughts that are worth protecting.
+
+### Create automatic backups
+
+The desktop version has an automatic backup function that packs and saves the entire thought library or database as a ZIP file after exiting. It can also be set how many backup files should remain until the next overwriting - a maximum of 10 backup cycles are possible.
 
 ![Backup einrichten](../assets/images/backup.png)
 

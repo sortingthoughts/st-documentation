@@ -11,56 +11,51 @@ title: "Projekt- und Aufgabenmanagement"
 </div>
 </div>
 
-<div class="notTranslated">
-This page is not yet translated. Please use Google translate until the translation is complete:
-<div id="google_translate_element"></div>
-</div>
-
 ---------------
 __Inhalt__
 * TOC
 {:toc}
 ---------------
 
-## Projekt- und Aufgabenmanagement
+## Project and task management
 
-Neben einfachen Gedanken ist es auch möglich Projekte, Aufgaben und Ereignisse mit Sorting Thoughts anzulegen und zu verwalten. Diese speziellen Gedanken haben zusätzliche Eingabefelder und Metadaten.
+In addition to simple thoughts, it is also possible to create and manage projects, tasks and events with Sorting Thoughts. These special thoughts have additional input fields and metadata.
 
-### Projekte
+### Projects
 
-![Projekt-Gedanke](../assets/images/projekt-gedanke.png)
+![Project thought](../assets/images/projekt-gedanke.png)
 
-![Projekt in der mobilen Version](../assets/images/st-ios-projekt.png)
+![Project in the mobile version](../assets/images/st-ios-projekt.png)
 
-Jeder Projekt-Gedanke in der Desktop Version hat eine Aufgabenplan-Ansicht, die alle Unteraufgaben des Projektes in einem Gantt Diagramm visualisiert. Es ist auch möglich in den Gantt Diagramm die Aufgaben zu planen, indem sie zeitlich verschoben werden können. Per Doppelklick auf einen Aufgabenbalken kann man direkt die Aufgaben öffnen.
+Each project thought in the desktop version has a **Task Schedule** view that visualizes all sub-tasks of the project in a Gantt chart. It is also possible to plan tasks in the Gantt chart by shifting them in time. You can open the tasks directly by double-clicking on a task bar.
 
-![Gantt Chart](../assets/images/gantt-chart.png)
+![Gantt chart](../assets/images/gantt-chart.png)
 
-Die Metadaten eines Projekt-Gedanken haben eine extra Sektion, die darüber Aufschluss gibt wie lange das Projekt in welchen Status war und wie viele untergeordnete Aufgaben das Projekt hat.
+The metadata of a project thought has an extra section that provides information about how long the project was in what status and how many subtasks the project has.
 
-![Projekt Metadaten](../assets/images/projekt-metadata.png)
+![Project Metadata](../assets/images/projekt-metadata.png)
 
-### Aufgaben
+### Tasks
 
-![Aufgabe](../assets/images/aufgabe.png)
+![Task](../assets/images/aufgabe.png)
 
-![Aufgabe in der mobilen Version](../assets/images/st-ios-aufgabe.png)
+![Task in the mobile version](../assets/images/st-ios-aufgabe.png)
 
-### Ereignisse
+### Events
 
-![Ereignis](../assets/images/ereignis.png)
+![Event](../assets/images/ereignis.png)
 
-![Ereignis in der mobilen Version](../assets/images/st-ios-ereignis.png)
+![Event in the mobile version](../assets/images/st-ios-ereignis.png)
 
-### Zusätzliche Suchfilter
+### Additional search filters
 
-Es gibt in Sorting Thoughts zusätzlich Suchfilter, die das Auffinden von Aufgaben und Projekte vereinfachen. So können z.B. die nächsten fälligen Aufgaben angezeigt werden oder alle Projekte aus der Kategorie **Büro**.
+There are additional search filters in Sorting Thoughts that make it easier to find tasks and projects. For example, the next due tasks can be displayed or all projects from the **Office** category .
 
-Per Rechtsklick auf das Sucheingabefeld können folgende Filter erreicht werden:
+The following filters can be reached by right-clicking on the search input field:
 
-![Suchfilter](../assets/images/such-filter.png)
+![Search filter](../assets/images/such-filter.png)
 
-Siehe auch [Suchen und Filtern](./gedanken_verwalten_desktop.html#filter)
+See also [Search and Filter](./gedanken_verwalten_desktop.html#filter)
 
 ---------------
 
