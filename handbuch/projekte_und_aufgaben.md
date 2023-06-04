@@ -25,7 +25,7 @@ In addition to simple thoughts, it is also possible to create and manage project
 
 ![Project thought](../assets/images/projekt-gedanke.png)
 
-![Project in the mobile version](../assets/images/st-ios-projekt.png)
+![Project in the mobile version](../assets/images/ProjectView_en.png)
 
 Each project thought in the desktop version has a **Task Schedule** view that visualizes all sub-tasks of the project in a Gantt chart. It is also possible to plan tasks in the Gantt chart by shifting them in time. You can open the tasks directly by double-clicking on a task bar.
 
@@ -39,13 +39,13 @@ The metadata of a project thought has an extra section that provides information
 
 ![Task](../assets/images/aufgabe.png)
 
-![Task in the mobile version](../assets/images/st-ios-aufgabe.png)
+![Task in the mobile version](../assets/images/TaskView_en.png)
 
 ### Events
 
 ![Event](../assets/images/ereignis.png)
 
-![Event in the mobile version](../assets/images/st-ios-ereignis.png)
+![Event in the mobile version](../assets/images/EventView_en.png)
 
 ### Additional search filters
 
