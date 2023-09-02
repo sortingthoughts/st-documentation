@@ -1,3 +1,5 @@
+[🇩🇪 Gehe zur Deutschen Version von dieser Dokumentation](https://sortingthoughts.github.io/st-dokumentation/)
+
 ## About Sorting Thoughts
 #### [The Story of Sorting Thoughts](ueber_sortingthoughts.md)
 #### [Who should use Sorting Thoughts?](anwendungen_sortingthoughts.md)
