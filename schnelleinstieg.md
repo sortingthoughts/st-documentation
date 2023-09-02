@@ -80,7 +80,7 @@ By means of the plus icon on the home screen or with the create button on the we
 
 **Step 3: Create the first thought**
 
-After creating the collection, you can open it and create a new thought. To do this, tap the plus icon in the upper right corner. Further information is available in the [User's Guide](/handbuch/gedanken_verwalten_mobile.md).
+After creating the collection, you can open it and create a new thought. To do this, tap the plus icon in the upper right corner. Further information is available in "[Basics](/handbuch/grundlagen_mobile.md)" and "[Manage thoughts](/handbuch/gedanken_verwalten_mobile.md)".
 
 ![create a new thought](/assets/images/CreateNoteAnimation_en.gif)
 

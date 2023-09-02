@@ -49,11 +49,11 @@ __Inhalt__
 
 [Checksums of older versions](download_pruefsummen.md)
 
-## iOS Version
+## iOS / iPadOS Version
 
 ### Installation Requirements
 
-* iOS 15.6 or better
+* iOS / iPadOS 15.6 or better
 * compatible with iPhone, iPad and iPod touch
 * Family sharing will be supported for in-app purchases
 * Languages: German, English

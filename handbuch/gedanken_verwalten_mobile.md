@@ -21,7 +21,7 @@ __Inhalt__
 
 ### Structuring thoughts
 
-The thought context menu allows you to structure your thoughts. Use the **Add sub thought** fuction to create a sub thought. The sub thought will be displayed as a child thought of the selected thought. The following screenshot shows the thought context menu:
+The thought context menu allows you to structure your thoughts. Use the **Add sub thought** function to create a sub thought. The sub thought will be displayed as a child thought of the selected thought. The following screenshot shows the thought context menu:
 
 ![Thought list](../assets/images/ThoughtContext_en.png)
 
