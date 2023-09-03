@@ -1,4 +1,4 @@
-[🇩🇪 Gehe zur Deutschen Version von dieser Dokumentation](https://sortingthoughts.github.io/st-dokumentation/)
+[🇩🇪 Gehe zur deutschen Version von dieser Dokumentation](https://sortingthoughts.github.io/st-dokumentation/)
 
 ## About Sorting Thoughts
 #### [The Story of Sorting Thoughts](ueber_sortingthoughts.md)
